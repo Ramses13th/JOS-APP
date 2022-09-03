@@ -1,6 +1,6 @@
 import { ScrollView, Text, Linking } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const MoarteIadSiViataDeApoi = (props) => {
   console.log("9_nav_loaded");
@@ -20,10 +20,10 @@ const MoarteIadSiViataDeApoi = (props) => {
           fontStyle: 'italic'
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/moarte-iad-si-viata-de-apoi/");
+          Linking.openURL("https://satanslibrary.org/666BlackSun/Hell.html");
         }}
       >
-        Adevărul despre „Iad”
+        The Truth About "Hell"
       </Text>
       <Text
         style={{
@@ -39,10 +39,10 @@ const MoarteIadSiViataDeApoi = (props) => {
           fontStyle: 'italic'
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/fantomele/");
+          Linking.openURL("https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Ghosts.html");
         }}
       >
-        Fantomele
+        Ghosts
       </Text>
       <BLSButton navigate={props} />
     </ScrollView>

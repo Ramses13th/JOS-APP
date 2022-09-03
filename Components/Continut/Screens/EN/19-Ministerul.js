@@ -1,6 +1,6 @@
 import { ScrollView, Text, Linking } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const Ministerul = (props) => {
   console.log("19_nav_loaded");
@@ -8,9 +8,9 @@ const Ministerul = (props) => {
     <ScrollView style={look.background}>
       <Text style={look.baseText}>
         <Text style={{ color: "#5E6DFF" }}>
-          Înalta Preoteasă Administratoare Maxine Dietrich{" "}
+          Administrative High Priestess Maxine Dietrich{" "}
         </Text>
-        <Text>(Fondatoarea JoS) {"\n\n"}</Text>
+        <Text>[Founder of Joy of Satan Ministries] {"\n\n"}</Text>
         {/* Link Listat */}
         <Text
           style={{
@@ -48,14 +48,13 @@ const Ministerul = (props) => {
           >
             Joy of Satan
           </Text>{" "}
-          <Text>(Bucuria lui Satan)</Text>
         </Text>
       </Text>
       {/* Link Listat */}
 
       <Text style={look.baseText}>
         <Text style={{ color: "#5E6DFF" }}>
-          Înaltul Preot Hooded Cobra 666{"\n\n"}
+          High Priest Hooded Cobra 666{"\n\n"}
         </Text>
         {/* Link Listat */}
         <Text
@@ -208,7 +207,7 @@ const Ministerul = (props) => {
 
       <Text style={look.baseText}>
         <Text style={{ color: "#5E6DFF" }}>
-          Înaltul Preot Micama Gmicalzom{"\n\n"}
+          High Priest Micama Gmicalzoma{"\n\n"}
         </Text>
         {/* Link Listat */}
         <Text
@@ -253,7 +252,7 @@ const Ministerul = (props) => {
 
       <Text style={look.baseText}>
         <Text style={{ color: "#5E6DFF" }}>
-          Înalta Preoteasă Zildar Raasi{"\n\n"}
+          High Priestess Zildar Raasi{"\n\n"}
         </Text>
         {/* Link Listat */}
         <Text
@@ -292,7 +291,6 @@ const Ministerul = (props) => {
           >
             Exposing Islam: a program of death
           </Text>{" "}
-          <Text>(engleză) {"\n\n"}</Text>
         </Text>
         <Text
           style={{
@@ -312,30 +310,13 @@ const Ministerul = (props) => {
           >
             {"\u25CF  "}
           </Text>
-          <Text
-            style={{
-              textAlign: "left",
-              color: "#4BB4FF",
-              textDecorationLine: "underline",
-              paddingTop: 10,
-              letterSpacing: 1,
-              fontSize: 18,
-              fontWeight: "bold",
-            }}
-            onPress={() => {
-              Linking.openURL("https://adevaruldespreislam.blogspot.com/");
-            }}
-          >
-            Islamul Expus: un program al morții
-          </Text>{" "}
-          <Text>(română)</Text>
         </Text>
       </Text>
       {/* Link Listat */}
 
       <Text style={look.baseText}>
         <Text style={{ color: "#5E6DFF" }}>
-          Înalta Preoteasă Shannon Outlaw{"\n\n"}
+          High Priestess Shannon Outlaw{"\n\n"}
         </Text>
         {/* Link Listat */}
         <Text
@@ -415,7 +396,7 @@ const Ministerul = (props) => {
 
       <Text style={look.baseText}>
         <Text style={{ color: "#5E6DFF" }}>
-          Înalta Preoteasă Myla Limlal{"\n\n"}
+          High Priestess Myla Limlal{"\n\n"}
         </Text>
         {/* Link Listat */}
         <Text
@@ -452,7 +433,6 @@ const Ministerul = (props) => {
           >
             Algeriade Enki
           </Text>{" "}
-          <Text> (spaniolă) {"\n\n"}</Text>
         </Text>
         <Text
           style={{
@@ -496,7 +476,7 @@ const Ministerul = (props) => {
 
       <Text style={look.baseText}>
         <Text style={{ color: "#5E6DFF" }}>
-        Înaltul Preot Lucius Oria{"\n\n"}
+          High Priest Lucius Oria{"\n\n"}
         </Text>
         {/* Link Listat */}
         <Text
@@ -539,8 +519,12 @@ const Ministerul = (props) => {
             paddingTop: 10,
             marginLeft: 20,
           }}
-        >
-        </Text>
+        ></Text>
+      </Text>
+      <Text style={look.baseText}>
+        We extend our thanks to Many Wonderful and Longterm contributors, who
+        are many to name here, but are nevertheless extremely important and
+        responsible for the advancement of Satanism.
       </Text>
       {/* Link Listat */}
       <BLSButton navigate={props} />

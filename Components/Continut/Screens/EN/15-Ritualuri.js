@@ -1,6 +1,6 @@
 import { ScrollView, Text, Linking } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const Ritualuri = (props) => {
   console.log("15_nav_loaded");
@@ -20,10 +20,12 @@ const Ritualuri = (props) => {
           fontStyle: "italic",
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/ceremonii-satanice/");
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Rites666.html"
+          );
         }}
       >
-        Ceremonii satanice
+        SATANIC RITES
       </Text>
       <Text
         style={{
@@ -39,10 +41,12 @@ const Ritualuri = (props) => {
           fontStyle: "italic",
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/sarbatorile-satanice/");
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/HOLIDAYS.html"
+          );
         }}
       >
-        Sărbătorile satanice
+        SATANIC SABBATS AND CELEBRATIONS
       </Text>
       <Text
         style={{
@@ -58,10 +62,12 @@ const Ritualuri = (props) => {
           fontStyle: "italic",
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/ritualuri-satanice/");
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Samhain.html"
+          );
         }}
       >
-        Ritualuri
+        IMPORTANT INFORMATION ABOUT HALLOWEEN/SAMHAIN
       </Text>
       <Text
         style={{
@@ -77,10 +83,12 @@ const Ritualuri = (props) => {
           fontStyle: "italic",
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/enochiana/");
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/RITUALS.html"
+          );
         }}
       >
-        Enochiana, limba Demonilor
+        SATANIC RITUALS
       </Text>
       <Text
         style={{
@@ -96,10 +104,34 @@ const Ritualuri = (props) => {
           fontStyle: "italic",
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/altare-satanice/");
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Enochian1.html"
+          );
         }}
       >
-        Altare satanice
+        ENOCHIAN: THE LANGUAGE OF DEMONS
+      </Text>
+
+      <Text
+        style={{
+          textAlign: "center",
+          color: "#4BB4FF",
+          textDecorationLine: "underline",
+          paddingTop: 10,
+          letterSpacing: 1,
+          marginLeft: 20,
+          marginTop: 15,
+          marginRight: 10,
+          fontSize: 24,
+          fontStyle: "italic",
+        }}
+        onPress={() => {
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Altars.html"
+          );
+        }}
+      >
+        SATANIC ALTARS
       </Text>
       <BLSButton navigate={props} />
     </ScrollView>

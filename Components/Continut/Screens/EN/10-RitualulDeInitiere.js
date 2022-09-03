@@ -1,6 +1,6 @@
 import { ScrollView, Text, Linking, View } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const RitualulDeInitiere = (props) => {
   console.log("10_nav_loaded");
@@ -17,72 +17,54 @@ const RitualulDeInitiere = (props) => {
             fontStyle: "italic",
           }}
         >
-          Te rugăm să citești și Întrebări frecvent puse de la sfârșitul
-          paginii.
+          *Please read the Frequently Asked Questions at the bottom of the page.
         </Text>
         <Text style={look.baseText}>
-          Ce se întâmplă când închei un legământ formal cu Satan?
+          What happens when I make a formal commitment to Satan?
         </Text>
         <Text style={look.baseText}>
-          Satan are grijă de ai lui. Satan ne dă o tărie interioară aparte
-          astfel încât devenim foarte puternici în spirit. Spre deosebire de
-          religiile de dreapta, unde adepții sunt nevoiți să se roage și să își
-          caute dumnezeul în mod continuu, Satan vine la noi de unul singur. Îl
-          putem simți adesea cum apare și ne îndrumă când suntem la pământ,
-          îngrijorați sau atunci când întâmpinăm probleme.
+          Satan looks out for his own. Satan gives us an inner strength and we
+          become very strong in spirit. Unlike right hand path religions, where
+          adherents are forever praying and searching for their god, Satan comes
+          to us on his own. Many times, we can feel him. He comes to guide us
+          when we get down, worried, or are experiencing problems. He snaps us
+          into line and directs us as to what we need to do to be focused and
+          happy.
         </Text>
 
         <Text style={look.baseText}>
-          Fundamentul satanismului spiritual e în terminarea planului lui Satan
-          pentru omenire, care este zeificarea, zeificare care este atinsă prin
-          meditația de împuternicire. În momentul de față omenirea se află la un
-          nivel foarte scăzut în ceea ce privește spiritualitatea. Atunci când
-          începem să medităm, avem parte de schimbări pozitive profunde în
-          viețile noastre. Satan și Demonii săi (adevărații Zei) ne protejează
-          și ne poartă de grijă în timp ce noi avansăm și ajungem la stadiul în
-          care suntem capabili să ne folosim de puterile noastre spirituale. Cu
-          Satan beneficiem de protecție, ceea ce nu se întâmplă în cazul celor
-          care sunt pe dinafară. Noi putem avansa în puterile minții și ale
-          sufletului pe atât de mult pe cât dorim; pentru străini acest lucru se
-          poate dovedi a fi extrem de periculos.
+          The foundation of Spiritual Satanism is in our finishing Satan's work
+          upon humanity. This is the goal of the godhead, and is accomplished
+          through power meditation. Humanity is currently at a very low level
+          spiritually. When we begin to meditate, we experience profound
+          positive changes within our lives. Satan and his Demons (The Original
+          Gods) protect us and look out for us as we transform and achieve
+          personal power. With Satan, we have protection that outsiders do not
+          have. We can advance in the powers of the mind and soul as far as we
+          wish. For outsiders, this can prove dangerous.
         </Text>
         <Text style={look.baseText}>
-          Satan de asemenea ne oferă cunoștințe: „Conduc pe o cale dreaptă fără
-          nicio carte relevată.” În timp ce noi ne transformăm și creștem, viața
-          ni se schimbă în mai bine și suntem mult mai fericiți. Prin Satan
-          învățăm cum să preluăm controlul asupra vieții și destinului nostru,
-          încetând să mai trăim la mila destinului. Învățăm cum să ne vindecăm
-          atât pe noi înșine cât și pe ceilalți, dar și cum să ne împlinim
-          dorințele folosindu-ne de puterile minții și sufletului.
+          Satan also gives us knowledge. "I lead to the straight path without a
+          book." As we transform and grow, our lives change for the better and
+          we are much happier. We learn through Satan how to take control of our
+          own lives and destiny instead of being at the mercy of fate. We learn
+          to heal ourselves, and to fulfill our own desires, using the powers of
+          our mind and soul.
         </Text>
         <Text style={look.baseText}>
-          Prin încheierea legământului, ne facem un angajament direct, în fața
-          lui Satan, printr-un ritual. Acesta se face exclusiv prin liberă
-          alegere. Noi luăm decizia – în opoziție cu botezurile creștine în care
-          copiii neajutorați sunt duși în bisericile creștine, unde li se recită
-          rugăciuni canonice (care în adevăr au fost furate și corupte din
-          mantrele religiilor orientale), în fața unei adunături de idioți.
-        </Text>
-        <Text style={look.baseText}>
-          Mulțumită cercetărilor, acum putem dovedi fără nici un pic de îndoială
-          că nazarineanul, „Iehova” și multe alte personaje biblice sunt
-          caractere fictive care au fost furate și corupte din conceptele
-          spirituale păgâne/satanice. După ce acestea au fost corupte în rândul
-          populației, o mană de „aleși” au avut libertatea de a abuza de ele,
-          ajungând să conducă lumea folosindu-se de puterile minții și a
-          sufletului. Pentru mai multe informații, te rugăm să vizitezi site-ul
+          In making a commitment, we engage a formal ritual. This is done out of
+          free will. We are making a choice, as opposed to being dragged off to
+          some Christian church, and reciting canned prayers (stolen and
+          corrupted from Eastern mantras) in front of a bunch of idiots.
         </Text>
 
         <Text style={look.baseText}>
           <Text>
-            Mulțumită cercetărilor, acum putem dovedi fără nici un pic de
-            îndoială că nazarineanul, „Iehova” și multe alte personaje biblice
-            sunt caractere fictive care au fost furate și corupte din conceptele
-            spirituale păgâne/satanice. După ce acestea au fost corupte în
-            rândul populației, o mană de „aleși” au avut libertatea de a abuza
-            de ele, ajungând să conducă lumea folosindu-se de puterile minții și
-            a sufletului. Pentru mai multe informații, te rugăm să vizitezi
-            site-ul
+            With knowledge and research, we can prove beyond all doubt that the
+            nazarene, "jehova" and ilk are all fictitious characters, stolen
+            from and corrupted concepts to remove all spiritual knowledge so
+            that a "chosen" few can rule the world using powers of the mind and
+            soul. For further information, please visit{" "}
           </Text>
           <Text
             style={{
@@ -101,21 +83,19 @@ const RitualulDeInitiere = (props) => {
               );
             }}
           >
-            {" "}
-            Creștinismul expus.
+            www.exposingchristianity.com
+          </Text>
+          <Text>
+            {" \n\n"}
+            Because so many have been forcefully indoctrinated with these
+            characters, and what they stand for (Enemies of Satan), we renounce
+            them permanently in the dedication ritual. This proves to be
+            psychologically healthy and liberating.
           </Text>
         </Text>
         <Text style={look.baseText}>
-          Deoarece prea mulți au fost în mod forțat îndoctrinați cu aceste
-          caractere, precum și cu poziția pe care acestea o au (ca inamici ai
-          lui Satan), noi renunțăm permanent la ele prin Ritualul de
-          dedicare/inițiere. Aceasta se dovedește a fi o acțiune sănătoasă și
-          eliberatoare din punct de vedere psihic.
-        </Text>
-        <Text style={look.baseText}>
-          Ritualul de Inițiere este foarte personal, afară de cazul în care
-          dorești ca prietenii tăi să participe sau dacă îl faci în cadrul unui
-          grup.
+          The initiation ritual is very personal, unless you decide to have
+          friends participate, or are doing it as part of a group.
         </Text>
         <Text
           style={{
@@ -126,21 +106,23 @@ const RitualulDeInitiere = (props) => {
             fontStyle: "italic",
           }}
         >
-          Vei avea nevoie de:{" "}
+          You will need:{" "}
         </Text>
 
         <Text style={look.baseText}>
-          {"\u25CF"} una sau mai multe lumânări de culoare neagră, albastră sau
-          roșie (pe cât de mute dorești),
-        </Text>
-        <Text style={look.baseText}>{"\u25CF"} un ac sau un lamă sterilă,</Text>
-        <Text style={look.baseText}>
-          {"\u25CF"} o foaie de hârtie curată și îndeajuns de mare pentru a
-          putea scrie rugăciunea de mai jos,
+          {"\u25CF"} 1 or more black, blue or red candles (as many as you like),
         </Text>
         <Text style={look.baseText}>
-          {"\u25CF"} un obiect de scris cu care îți vei semna numele în sânge
-          (scufunzi vârful obiectului în sângele tău).
+          {"\u25CF"} A sterilized needle or razor
+        </Text>
+        <Text style={look.baseText}>
+          {"\u25CF"} A piece of clean paper, large enough to write the prayer
+          below
+        </Text>
+        <Text style={look.baseText}>
+          {"\u25CF"} A dry pen, where you sign your name in blood (dip the tip
+          of the pen in your blood) NOTE* YOU ONLY SIGN YOUR NAME IN BLOOD, NOT
+          ANYTHING ELSE ON THE PAPER.
         </Text>
 
         <View
@@ -172,36 +154,34 @@ const RitualulDeInitiere = (props) => {
                 fontSize: 19,
               }}
             >
-              Scrie următoarea rugăciune: {"\n"}
+              Write the following prayer: {"\n"}
             </Text>
             <Text>
-              Înaintea atotputernicului și inefabilului Zeu Satan/Lucifer și în
-              prezența tuturor Demonilor Săi, care sunt Zeii adevărați și
-              originali, eu, (trece-ți numele complet aici), renunț la toate
-              credințele mele de până acum. Renunț la falsul zeu iudeo-creștin,
-              renunț la josnicul și netrebnicul său fiu Isus Hristos, renunț la
-              spurcatul, odiosul și infectul său duh sfânt. Îl proclam pe
-              Satan/Lucifer drept unicul și singurul meu Zeu. Promit să Îl
-              recunosc și să Îl onorez în toate lucrurile fără reținere, dorind
-              în schimb felurita Sa asistență, pentru a termina cu succes
-              strădaniile mele.
+              Before the almighty and ineffable God Satan/Lucifer and in the
+              presence of all Demons of Hell, who are the True and the Original
+              gods, I, (state your full name) renounce any and all past
+              allegiances. I renounce the false Judeo/Christian god Jehova, I
+              renounce his vile and worthless son Jesus Christ, I renounce his
+              foul, odious, and rotten holy spirit. I proclaim Satan Lucifer as
+              my one and only God. I promise to recognize and honor him in all
+              things, without reservation, desiring in return, his manifold
+              assistance in the successful completion of my endeavors.
             </Text>
           </Text>
         </View>
         <Text style={look.baseText}>
-          Este important să faci baie înaintea oricărui ritual pe care îl faci,
-          deoarece asta denotă respect. Când ești pregătit aprinde lumânările.
-          Ia acul și înțeapă-ți degetul arătător de la mâna stângă și stoarce
-          puțin sânge.
+          It is important to bathe before any rituals you perform, this is done
+          out of respect. When you are ready, you can light the candle. Take the
+          needle, prick the index finger of your left hand, squeeze some blood
+          out.
         </Text>
-        <Text style={look.baseText}>Semnează-ți numele în sânge.</Text>
+        <Text style={look.baseText}>Sign your name in blood.</Text>
         <Text style={look.baseText}>
-          Recită rugăciunea cu voce tare sau în minte.
+          Recite the prayer either aloud or in your head.
         </Text>
         <Text style={look.baseText}>
-          Îndoaie hârtia aprinde-o în flacăra unei lumânări și las-o să ardă.
-          Mulți dintre noi au rămas și au meditat până când lumânarea a ars de
-          tot.
+          Fold the paper and let it burn in the fire of the candle. Many of us
+          have stayed and meditated until the candle had burned itself out.
         </Text>
         <Text
           style={{
@@ -214,7 +194,8 @@ const RitualulDeInitiere = (props) => {
             borderBottomColor: "red",
           }}
         >
-          Încheie ritualul cu cuvintele „Și așa să fie,” și un „HAIL SATAN!”
+          At the end of the ritual, close with the words "So mote it be." And a
+          Big "HAIL SATAN!!"
         </Text>
 
         <Text
@@ -227,7 +208,7 @@ const RitualulDeInitiere = (props) => {
             marginBottom: 10,
           }}
         >
-          Întrebări Frecvent Puse
+          Frequently Asked Questions/concerns:
         </Text>
 
         {/* q&a */}
@@ -241,7 +222,7 @@ const RitualulDeInitiere = (props) => {
               fontStyle: "italic",
             }}
           >
-            Întrebare:
+            Question:
           </Text>
           <Text
             style={{
@@ -251,7 +232,7 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Pot face ritualul de mai multe ori?
+            Can I perform the ritual more than once?
           </Text>
           <Text
             style={{
@@ -262,7 +243,7 @@ const RitualulDeInitiere = (props) => {
               fontStyle: "italic",
             }}
           >
-            Răspuns:
+            Answer:
           </Text>
           <Text
             style={{
@@ -272,8 +253,8 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            NU! Ritualurile Satanice sunt foarte reale. Ritualul Legământului ar
-            trebui făcut doar O SINGURĂ DATĂ!
+            NO! Satanic rituals are real and binding. The ritual should only be
+            done ONE TIME!
           </Text>
         </View>
         {/* q&a */}
@@ -289,7 +270,7 @@ const RitualulDeInitiere = (props) => {
               fontStyle: "italic",
             }}
           >
-            Întrebare:
+            Question:
           </Text>
           <Text
             style={{
@@ -299,8 +280,8 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Am făcut ritualul însă nu am putut stoarce decât o foarte mică
-            cantitate de sânge pe hârtie. Mai e ritualul valabil?
+            I performed the ritual. I could barely get any blood on the paper,
+            is the ritual still valid?
           </Text>
           <Text
             style={{
@@ -311,7 +292,7 @@ const RitualulDeInitiere = (props) => {
               fontStyle: "italic",
             }}
           >
-            Răspuns:
+            Answer:
           </Text>
           <Text
             style={{
@@ -321,9 +302,9 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            DA!! Cantitatea de sânge nu contează, aceasta fiind doar o
-            formalitate. Ceea ce este în inima ta precum și intenția ta sunt
-            mult mai importante decât cantitatea de sânge din semnătură.
+            YES!! The amount of blood does not matter, this is only a formality.
+            What is in our hearts and what our intentions are, are much more
+            important than the amount of blood in our signature.
           </Text>
         </View>
         {/* q&a */}
@@ -339,7 +320,7 @@ const RitualulDeInitiere = (props) => {
               fontStyle: "italic",
             }}
           >
-            Întrebare:
+            Question:
           </Text>
           <Text
             style={{
@@ -349,7 +330,7 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Pot să inversez ritualul?
+            Can I reverse the ritual at a later date?
           </Text>
           <Text
             style={{
@@ -360,7 +341,7 @@ const RitualulDeInitiere = (props) => {
               fontStyle: "italic",
             }}
           >
-            Răspuns:
+            Answer:
           </Text>
           <Text
             style={{
@@ -370,13 +351,11 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Spre deosebire de ritualurile altor religii, ritualurile satanice
-            sunt reale și permanente. Am primit un număr foarte mic de scrisori
-            de la oameni care au fost induși în confuzie și au fost hărțuiți de
-            creștini în urma dedicării lor. Câțiva dintre aceștia au făcut un
-            revers pentru ritualul de dedicare și Satan i-a părăsit în mod
-            total. Satan nu forțează pe nimeni să îl accepte și nici să rămână
-            lângă el.{" "}
+            Satanic rituals, unlike the rituals in other religions, are real and
+            permanent. I received a very small number of letters from people who
+            were confused and harassed by Christians. One person performed a
+            reverse ritual and Satan left him. Totally. Satan does not push
+            himself on anyone.{" "}
           </Text>
           <Text
             style={{
@@ -386,15 +365,14 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Creștinii sunt înșelați. Ei cred că „dumnezeul” lor este „iubitor”
-            și „iertător.” În adevăr, acest monstru este plin de ură și un
-            atacator al ființelor umane. Atunci când ești cu Satan, te afli
-            mereu sub protecția sa. El are grijă de noi, iar noi intrăm într-o
-            nouă viață în care nu mai avem parte de îngrijorările pe care
-            ceilalți le îndură. Lucrurile nu sunt perfecte, însă ele sunt
-            întotdeauna mai bune. Satan nu te pedepsește dacă îl respingi, ci
-            pur și simplu te părăsește și te lasă să înfrunți singur chinurile
-            inamicilor.
+            Christians are deceived. They believe their "God" to be "loving" and
+            "forgiving." In truth, this monster is a spiteful, hateful attacker
+            of human beings. When one is with Satan, one is always under his
+            protection. He looks out for us and we enter a new life where we no
+            longer have the worries that others endure. Things are not perfect,
+            but they are always much better. Satan does not punish people who
+            reject him, he simply leaves and one is left all alone to endure the
+            torments of the enemy.
           </Text>
           <Text
             style={{
@@ -404,10 +382,10 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Acești oameni mi-au scris pentru că după câteva luni, ei se rugau de
-            Satan să îi primească înapoi. Inamicii nu au făcut absolut nimic
-            pentru ei. La toți le părea extrem de rău pentru că au plecat de
-            lângă Satan și erau disperați să se întoarcă înapoi.
+            These people wrote to me because after several months, they were
+            begging for Satan to take them back. The enemy did absolutely
+            nothing for them. All were extremely regretful they ever left and
+            very desperate to come back.
           </Text>
         </View>
         {/* q&a */}
@@ -423,7 +401,7 @@ const RitualulDeInitiere = (props) => {
               fontStyle: "italic",
             }}
           >
-            Întrebare:
+            Question:
           </Text>
           <Text
             style={{
@@ -433,8 +411,8 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Sunt minor și dacă părinții m-ar prinde vreodată făcând ritualuri
-            Satanice, mi-ar crea probleme serioase.
+            I am under-age and my parents would cause me serious problems if
+            they ever caught me doing a Satanic ritual.
           </Text>
           <Text
             style={{
@@ -445,7 +423,7 @@ const RitualulDeInitiere = (props) => {
               fontStyle: "italic",
             }}
           >
-            Răspuns:
+            Answer:
           </Text>
           <Text
             style={{
@@ -455,8 +433,9 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Dacă nu există nici o cale de a întreține ritualul fără a te pune în
-            pericol, poți face acest ritual în Templul tău astral.
+            If there is absolutely no way you can perform the ritual without
+            placing yourself in danger, you can perform it in your astral
+            temple.
           </Text>
           <Text
             style={{
@@ -466,10 +445,11 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Întreținerea ritualului în astral este la fel de validă ca și aceea
-            făcută în fizic. Satan este foarte înțelegător în ceea ce îi
-            privește pe adolescenții care sunt forțați să adopte creștinismul,
-            atâta timp cât trăiesc cu familia creștină.
+            You can do the above ritual when you are older. Performing the
+            dedication on the astral is every bit as valid as doing it
+            physically. Satan is very understanding concerning teens who are
+            forced into accepting Christianity while living at home and being
+            underage.
           </Text>
         </View>
         {/* q&a */}
@@ -485,7 +465,7 @@ const RitualulDeInitiere = (props) => {
               fontStyle: "italic",
             }}
           >
-            Întrebare:
+            Question:
           </Text>
           <Text
             style={{
@@ -495,9 +475,9 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Sunt minor, locuiesc într-o familie creștină, iar părinții mă
-            forțează să merg la biserică și să particip la slujbele creștine.
-            Mai pot întreține ritualul de dedicare? Se va supăra Satan pe mine?
+            I am underage, living in a Christian home and my parents force me to
+            go to church and participate in Christian sacraments. Can I still do
+            the dedication? Will Satan be angry with me?
           </Text>
           <Text
             style={{
@@ -508,7 +488,7 @@ const RitualulDeInitiere = (props) => {
               fontStyle: "italic",
             }}
           >
-            Răspuns:
+            Answer:
           </Text>
           <Text
             style={{
@@ -518,17 +498,17 @@ const RitualulDeInitiere = (props) => {
               paddingTop: 20,
             }}
           >
-            Da, poți întreține ritualul. Satan înțelege. Atâta timp cât tu îi
-            ești loial în inima ta, el nu se va supăra pe tine. Cei care au sub
-            18 ani, în general nu sunt liberi. Nu trebuie să îți dezvălui
-            convingerile religioase nimănui. Ceea ce este în inima ta contează
-            mai mult decât orice. Satan ne sfătuiește în Al-Jilwah să nu ne
-            dezvăluim religia celor ce sunt pe dinafară, dacă asta ne creează
-            probleme; asta e valabil în special pentru adolescenți. Pur și
-            simplu renunță la „dumnezeul” creștin în mintea ta dacă ești forțat
-            să participi la gunoaiele lor. Satan înțelege că poate fi extrem de
-            periculos ca minorii să își dezvăluie apartenența religioasă
-            părinților creștini, atâta timp cât locuiesc împreună cu ei.{" "}
+            Yes, you can still perform the ritual. Satan understands. As long as
+            you are loyal to him in your heart, he will not be angry with you.
+            Those of you under 18 are not free. There is no need to reveal your
+            allegiance to Satan to anyone. What is in your heart is more
+            important than anything else. Satan advises us in the Al-Jilwah not
+            to reveal our religion to outsiders if it will cause us harm in any
+            way, this is especially important for teens. Just renounce the
+            Christian "God" in your mind if you are forced to participate in any
+            of his garbage. Satan understands it can be downright dangerous, and
+            in some cases even life-threatening for teens living in Christian
+            homes to reveal their allegiance to him.{" "}
           </Text>
         </View>
         {/* q&a */}

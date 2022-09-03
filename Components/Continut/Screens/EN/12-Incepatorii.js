@@ -1,6 +1,6 @@
 import { ScrollView, Text, Linking, Image } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const Incepatorii = (props) => {
   console.log("12_nav_loaded");
@@ -28,49 +28,11 @@ const Incepatorii = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/introducere-in-satanism/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/4Newbies.html"
           );
         }}
       >
-        INTRODUCERE ÎN SATANISMUL SPIRITUAL
-      </Text>
-      <Text
-        style={{
-          textAlign: "left",
-          color: "#4BB4FF",
-          textDecorationLine: "underline",
-          paddingTop: 10,
-          letterSpacing: 1,
-          marginLeft: 20,
-          marginTop: 15,
-          marginRight: 10,
-          fontSize: 22,
-          fontStyle: "italic",
-        }}
-        onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/la-ce-te-poti-astepta/");
-        }}
-      >
-        La ce te poți aștepta …
-      </Text>
-      <Text
-        style={{
-          textAlign: "left",
-          color: "#4BB4FF",
-          textDecorationLine: "underline",
-          paddingTop: 10,
-          letterSpacing: 1,
-          marginLeft: 20,
-          marginTop: 15,
-          marginRight: 10,
-          fontSize: 22,
-          fontStyle: "italic",
-        }}
-        onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/sacramentele-satanice/");
-        }}
-      >
-        Sacramentele satanice
+        Introduction To Spiritual Satanism
       </Text>
       <Text
         style={{
@@ -87,11 +49,11 @@ const Incepatorii = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/puterile-mintii-si-ale-sufletului/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/FOR.html"
           );
         }}
       >
-        MAGIE 1001: VRĂJITORIE – PUTERILE MINȚII ȘI ALE SUFLETULUI
+        What You Can Expect....
       </Text>
       <Text
         style={{
@@ -108,11 +70,11 @@ const Incepatorii = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/trei-pasi-ai-vrajitoriei/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/SACRAMENTS.html"
           );
         }}
       >
-        MAGIE 1001: TREI PAȘI AI VRĂJITORIEI
+        Satanic Sacraments
       </Text>
       <Text
         style={{
@@ -128,10 +90,75 @@ const Incepatorii = (props) => {
           fontStyle: "italic",
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/ritualul-standard/");
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/PowersofMind.html"
+          );
         }}
       >
-        Ritualul standard
+        Magick 1001: Witchcraft- Powers of the Mind and Soul
+      </Text>
+      <Text
+        style={{
+          textAlign: "left",
+          color: "#4BB4FF",
+          textDecorationLine: "underline",
+          paddingTop: 10,
+          letterSpacing: 1,
+          marginLeft: 20,
+          marginTop: 15,
+          marginRight: 10,
+          fontSize: 22,
+          fontStyle: "italic",
+        }}
+        onPress={() => {
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/ThreeSteps.html"
+          );
+        }}
+      >
+        Magick 1001: The Three Steps of Witchcraft
+      </Text>
+      <Text
+        style={{
+          textAlign: "left",
+          color: "#4BB4FF",
+          textDecorationLine: "underline",
+          paddingTop: 10,
+          letterSpacing: 1,
+          marginLeft: 20,
+          marginTop: 15,
+          marginRight: 10,
+          fontSize: 22,
+          fontStyle: "italic",
+        }}
+        onPress={() => {
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/RITUALITEMS.html"
+          );
+        }}
+      >
+        Ritual Tools and Their Uses
+      </Text>
+      <Text
+        style={{
+          textAlign: "left",
+          color: "#4BB4FF",
+          textDecorationLine: "underline",
+          paddingTop: 10,
+          letterSpacing: 1,
+          marginLeft: 20,
+          marginTop: 15,
+          marginRight: 10,
+          fontSize: 22,
+          fontStyle: "italic",
+        }}
+        onPress={() => {
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Ritual.html"
+          );
+        }}
+      >
+        Standard Ritual
       </Text>
 
       <BLSButton navigate={props} />

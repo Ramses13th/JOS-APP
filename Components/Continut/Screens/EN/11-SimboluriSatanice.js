@@ -7,23 +7,22 @@ import {
   Image,
 } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const SimboluriSatanice = (props) => {
   console.log("12_nav_loaded");
   return (
     <ScrollView style={look.background}>
       <Text style={look.baseText}>
-        E un fapt trist că puțini sataniști cunosc adevărata semnificație a
-        simbolurilor noastre. Cei mai mulți preiau informații false și eronate
-        din surse creștine. Creștinii își arată încontinuu prostia și ignoranța.
-        Cunoștința este cel mai mare dușman al lor, întrucât nicio înșelătorie,
-        nicio farsă și nicio minciună nu poate avea succes atunci când victima
-        cunoaște adevărul. Fiecare simbol satanic poartă o semnificație
-        spirituală puternică și care are de-a face cu dobândirea dumnezeirii, a
-        perfecțiunii și imortalității fizice și spirituale de către omenire.
-        Cele mai multe simboluri satanice – dacă nu chiar toate acestea – fac
-        referință la adevărata cunoștință spirituală și la sufletul uman.
+        It is a sad fact that few Satanists know the real meaning of our
+        symbols. Most take false and erroneous information from Christian
+        sources. Christians show their stupidity and ignorance incessantly.
+        Knowledge is their most formidable enemy for no scam, no hoax, nor any
+        lie can succeed when one has knowledge of the truth. Every Satanic
+        symbol represents powerful spiritual meaning in regards to humanity
+        reaching the godhead of spiritual and physical perfection and
+        immortality. Most if not all Satanic symbols pertain to the true
+        spiritual knowledge and the human soul.
       </Text>
       {/* image */}
       <Image
@@ -35,38 +34,35 @@ const SimboluriSatanice = (props) => {
       {/* nested link in text */}
       <Text style={look.baseText}>
         <Text style={look.baseText}>
-          ȘARPELE: cel mai sacru simbol din Satanism. Șarpele reprezintă
+          THE SERPENT: The most sacred symbol in Satanism. The serpent
+          represents the
         </Text>
 
         <Text
           style={look.linkTextLightBlue}
           onPress={() => {
             Linking.openURL(
-              "https://bucurialuisatan.com/satanismul-si-sarpele-kundalini/"
+              "https://satanisgod.org/www.angelfire.com/empire/serpentis666/Kundalini.html"
             );
           }}
         >
           {" "}
-          forța kundalinică
+          kundalini force
         </Text>
         <Text style={look.baseText}>
           {" "}
-          de la baza coloanei vertebrale. Atunci când Șarpele este activat prin
-          meditația de împuternicire și prin anumite exerciții specifice, acesta
-          urcă prin cele șapte chakre, aducând cu sine un grad ridicat și intens
-          de conștientizare, iluminare, abilități fizice și spirituale și
-          a-tot-cunoaștere. Cobra cu capișon care apare în multe dintre
-          gravurile din Egipt, simbolizează gradul de conștientizare expandat
-          care rezultă din ridicarea șarpelui Kundalini.
+          at the base of the spine. When the serpent is activated through power
+          meditation and specific exercises, it ascends through the seven
+          chakras, bringing intense awareness, enlightenment, psychic powers and
+          abilities, and all-knowing. The hooded cobra, seen in many ancient
+          carvings and paintings in Egypt, symbolizes the resulting expanded
+          consciousness of raising the serpent. This is the TRUE foundation of
+          Satanism- raising the serpent. Those who are successful in raising the
+          serpentine energy are on a much higher spiritual level and can no
+          longer be deceived by Christianity and its related programs.
         </Text>
       </Text>
       {/* nested link in text */}
-      <Text style={look.baseText}>
-        Acesta este ADEVĂRATUL fundament al Satanismului: ridicarea Șarpelui.
-        Aceia care își ridică energia șerpească cu succes, se află la un nivel
-        spiritual mult mai ridicat și nu mai pot fi înșelați de programul
-        creștinismului și de celelalte programe inamice.
-      </Text>
       {/* image */}
       <Image
         source={require("../../../../assets/images/11-SimboluriSatanice/2.gif")}
@@ -75,11 +71,11 @@ const SimboluriSatanice = (props) => {
       />
       {/* image */}
       <Text style={look.baseText}>
-        Pentagrama cu vârful în jos simbolizează energia de sus care intră prin
-        chakra coroanei. Fulgerul satanic îl simbolizează pe Satan ca adevăratul
-        nostru Zeu Creator. Fulgerul este forța vitală – bioelectricitatea.
-        Toate simbolurile cu vârful în jos întâlnite în satanism, reprezintă
-        energia de sus care descinde, dă viață și împuternicește sufletul uman.
+        THE POINT DOWN PENTAGRAM: Symbolizes energy entering our crown chakra
+        from above. The Satanic Lightning Bolt symbolizes Satan as our True
+        Creator God. The lightning bolt is the life force- the bioelectricity.
+        All point down symbols in Satanism represent energy from above
+        descending and giving life to, and empowering the human soul.
       </Text>
       {/* image */}
       <Image
@@ -89,9 +85,8 @@ const SimboluriSatanice = (props) => {
       />
       {/* image */}
       <Text style={look.baseText}>
-        Crucea de fier cu brațe egale poate fi văzută în majoritatea sigiliilor
-        Demonilor și reprezintă atât alinierea corectă a chakrelor din cele trei
-        granthi (noduri) ale sufletului, cât și forma sufletului uman.
+        The Equal Armed Iron Cross is seen in most Demon Sigils and represents
+        the correct alignment of the chakras and the shape of the human soul.
       </Text>
       {/* image */}
       <Image
@@ -101,14 +96,13 @@ const SimboluriSatanice = (props) => {
       />
       {/* image */}
       <Text style={look.baseText}>
-        Lucifer are mai multe sigilii. Fiecare dintre acestea are de a face cu
-        dobândirea dumnezeirii. Simbolul său din stânga reprezintă adevăratul
-        GRAAL. Acesta este pocalul care reține elixirul vieții. Biserica
-        Catolică a FURAT și a corupt acest simbol. Gralul face parte din
-        lucrarea Magnum Opus, potențial pe care îl purtăm în noi înșine. Acesta
-        nu este un obiect fizic, ci este un concept. „sângele chakrelor” este
-        energia care picură din acestea, atunci când sunt stimulate. Se spune că
-        Graalul colectează „sânge regal” – acesta este „sângele” chakrelor.
+        Lucifer has several sigils. All have to do with reaching the godhead.
+        His symbol at left represents the True GRAIL. This is the cup that holds
+        the elixer of life. The Catholic Church STOLE this concept and corrupted
+        it. The Grail is part of the Magnum Opus, the potential of which we have
+        within ourselves. It is not a material object, it is a concept. The
+        "blood of the chakras" is the energy they leak when stimulated. The
+        Grail is depicted as "Royal Blood." this is the 'blood' of the chakras.
       </Text>
       {/* image */}
       <Image
@@ -118,8 +112,8 @@ const SimboluriSatanice = (props) => {
       />
       {/* image */}
       <Text style={look.baseText}>
-        Simbolurile de sus sunt ale lui Astarte. Ambele au derivat din Ankh-ul
-        egiptean.
+        The symbols on the top are of Astarte. Both were derived from the
+        Egyptian Ankh.
       </Text>
       {/* image */}
       <Image
@@ -129,48 +123,47 @@ const SimboluriSatanice = (props) => {
       />
       {/* image */}
       <Text style={look.baseText}>
-        Ankh-ul Egiptean reprezintă cheia sufletului și chakra inimii. Iconița
-        planetei Venus a derivat și ea din ankh. Astarte guvernează atât peste
-        planeta Venus cât și peste chakra inimii.
+        The Egyptian Ankh represents the key to the soul and the heart chakra.
+        The glyph for the planet Venus was derived from the ankh. Both the
+        planet Venus and the heart chakra are of Astaroth.
       </Text>
       <Text style={look.baseText}>
-        Culorile ROȘU, ALB și NEGRU datează nu numai din Egiptul Antic, ci din
-        originile lor în Orientul Îndepărtat. Egiptul a fost cunoscut drept
-        „Țara Neagră-Roșie” și a fost un centru de alchimie. Alchimia este
-        transformarea sufletului uman în cel de zeu. Prin această transformare,
-        finalizăm munca neterminată a Creatorului nostru Satan. Culorile roșu,
-        alb și negru țin de cele trei nadii majore ale sufletului. Ida e neagră,
-        Pingala este roșie, iar Sushumna este albă.
+        The colors RED, WHITE, and BLACK - date back not only to Ancient Egypt,
+        but to their origins in the Far East. Egypt was known as the "Black and
+        Red Land" and was the center of Alchemy. Alchemy is the transformation
+        of the human soul into the godhead. Through this transformation, we
+        complete Our Creator Satan's unfinished work. The colors red, white and
+        black are of the three major nadis of the human soul. The Ida is black,
+        the Pingala is red, and the Sushumna is white.
       </Text>
       <Text style={look.baseText}>
-        „ÎNTUNERICUL” {"\n"}Asocierea „întunericului” cu satanismul a fost
-        sucită și pervertită până peste cap. Aceasta nu are de-a face cu
-        sperietori, vampiri sau orice alt rahat asemănător. „Întunericul”
-        satanic are de-a face cu polaritățile „yin” și „yang.” Reprezintă partea
-        feminină a sufletului: mintea subconștientă pe care o accesăm prin
-        meditația de împuternicire. Șarpele lui Satan aparține și el părții
-        feminine a sufletului. Partea masculină a sufletului este partea logică
-        și stângă a creierului, în timp ce cea feminină ține de partea dreaptă a
-        creierului. Sufletul are atât un pol negativ cât și un pol pozitiv.
-        Partea masculină și cea feminină trebuie să lucreze împreună. Partea
-        logică și masculină, direcționează partea feminină prin reflecție și
-        voință. Partea feminină este uzina sufletului și manifestă gândurile și
-        ideile generate de partea masculină. De asemenea, partea feminină este
-        partea creativă a sufletului: vise, muzică, sentimente, intuiție.
-        Datorită faptului că puterea de a-ți controla propriul destin – și
-        libertatea spirituală care rezultă de aici – ține de partea feminină a
-        sufletului, biserica catolică împreună cu fratele ei geamăn, islamul,
-        lucrează pentru a promova femeile într-o imagine inferioară. Islamul
-        este brutal cu femeile, iar biblia iudeo-creștină le degenerează până
-        peste cap. Toate aceste lucruri lasă amprente în subconștient, în mod
-        subliminal suprimând și tăgăduind puterea feminină din suflet. După
-        secole de impunere a acestui gunoi, partea feminină a sufletului și
-        puterile acesteia s-au atrofiat. Acesta este motivul pentru care
-        omenirea și lumea se află în dezordinea în care se află în ziua de azi.
-        A fost creat cel mai serios dezechilibru, care acum s-a generalizat.
-        Satanismul lucrează, prin meditația de împuternicire, să întărească
-        partea feminină a sufletului, să restaureze echilibrul și sănătatea
-        spirituală (pe lângă împuternicirea individului ca întreg).
+        "DARKNESS" {"\n"}The association of "darkness" with Satanism has been
+        totally twisted. This is not about spooks, ghouls or any other crap like
+        that. Satanic "darkness" has to do with the "yin" in the "yang." This
+        represents the female side of the soul; the subconscious mind that we
+        access through meditation. The Serpent of Satan is of the female side of
+        the soul. The male side of the soul is the logical side- the left brain.
+        The female side is the right side of the brain. The soul has both
+        positive and negative poles. Both the male and the female must work
+        together. The logical male side; the left brain directs the female side
+        through thought and will. The female side of the soul is the powerhouse
+        of the soul. The female side makes manifest the thoughts and ideas
+        generated from the male logical side. The female side is also the
+        creative aspect of the soul; dreams, music, feelings and intuitions.
+        Because of the power to direct one's own destiny and the spiritual
+        freedom that comes with this are of the female side of the soul, the
+        Christian Churches and their related ilk, such as Islam, work at
+        promoting an inferior image of women; with Islam being brutal to women,
+        and the incessant denegrations of women in the Judeo/Christian bible.
+        All of this in addition reflects on the subconscious, subliminal level
+        to suppress and deny the female power of the soul. Through centuries of
+        this enforced garbage, which is nothing more than a program to remove
+        spirituality, the female side of the soul and its powers have atrophied.
+        This is why humanity and this world are in such an ugly mess right now.
+        This has created a most serious imbalance that has become generational.
+        Satanism works through power meditation to empower the female side of
+        the soul to regain balance and restore spiritual health, along with
+        empowering the individual.
       </Text>
       {/* image */}
       <Image
@@ -180,18 +173,16 @@ const SimboluriSatanice = (props) => {
       />
       {/* image */}
       <Text style={look.baseText}>
-        „Furca Diavolului” este în fapt un simbol antic care a precedat
-        creștinismul cu mii de ani. Originile acestui simbol sunt în Orientul
-        Îndepărtat (de unde l-a furat creștinismul cu rădăcinile sale evreiești
-        și l-a pervertit și corupt până nu a mai rămas nimic din el; au făcut
-        asta cu scopul de a distruge cunoștința spirituală din rândul
-        populației, pentru ca aceasta să poată fi ținută bine mersi în mâinile
-        câtorva „aleși”). Este cunoscută sub numele de „TRISHUL” și simbolizează
-        străpungerea prin cele trei noduri ale sufletului – din chakra sexuală,
-        a gâtului și cea a coroanei – noduri care în sanscrită se mai numesc și
-        „granthi.” Pentru ca Șarpele să poată urca, toate aceste trei noduri
-        trebuie să fie deschise. Trishul simbolizează energia kundalinică care
-        străpunge prin cele trei granthi.
+        The "Devil's Pitchfork" is actually a very ancient symbol predating
+        Christianity by thousands of years. This symbol originated in the Far
+        East [where Christianity and its Jewish root stole from copiously;
+        hideously perverting and corrupting the massive theft beyond recogntion,
+        in order to destroy spiritual knowledge and keep spiritual power in the
+        hands of the "Chosen" few]. It is known as the "TRISHUL" and symbolizes
+        piercing through the three knots in the base, the heart and 6th chakras,
+        also known as "granthis" in Sanskrit. For the serpent to ascend, all
+        three must be open. The Trishul symbolizes the serpentine energy
+        piercing through the three granthis.
       </Text>
       {/* image */}
       <Image
@@ -201,19 +192,17 @@ const SimboluriSatanice = (props) => {
       />
       {/* image */}
       <Text style={look.baseText}>
-        Imaginea Baphometului din ocultismul occidental a fost preluată din
-        imaginea lui 00Baphomet_ImageShiva (vezi poza cu albastru de mai sus).
-        Fii atent la postură, în special la postura mâinilor: una ațintită în
-        sus și alta în jos. Și aici, Baphometul simbolizează atât aspectul
-        masculin cât și cel feminin al sufletului (acest lucru apare și în
-        imaginea lui Akhenaton din Egipt). Coarnele sunt un simbol al lui
-        Mercur, care reprezintă vrilul/chi-ul/puterea vrăjitorească/forța
-        vitală/prana. Aripile sufletului înseamnă libertate spirituală. Capra
-        simbolizează fertilitatea – fertilitate în sensul de sporire a forței
-        vitale, care în schimb activează și ridică șarpele Kundalini. „Capra a o
-        mie de tineri” face referire la chakra coroanei care în sanscrită mai
-        este cunoscută și ca „Sahasrara,” cuvânt care înseamnă „Lotusul cu o mie
-        de petale.”
+        The image of Baphomet of western occultism was taken from the image of
+        Shiva [above]. Note the position of the arms, one pointing upwards and
+        the other downwards. The Baphomet again is symbolic of both the male and
+        the female aspects of the soul. Note the Baphomet is both male and
+        female, as also seen with in images of the Egyptian God Akhenaton. The
+        horns are symbolic of Mercury, which is the vril, chi, witchpower,
+        lifeforce, prana. The wings of the soul represent spiritual freedom. The
+        goat symbolizes fertility- fertility in multiplying the life force,
+        vril, which activates and raises the serpent. The "Goat of a Thousand
+        Young" is referring to the crown chakra, "Sahasrara" in Sanskrit which
+        means "Thousand Petaled Lotus."
       </Text>
       {/* image */}
       <Image
@@ -223,13 +212,12 @@ const SimboluriSatanice = (props) => {
       />
       {/* image */}
       <Text style={look.baseText}>
-        Coarnele simbolizează forța vitală/puterea
-        vrăjitorească/vrilul/chi-ul/etc. Acest lucru este simbolizat de iconița
-        planetei Mercur (imaginea din dreapta). „Mercur” este cunoscut drept
-        „mesagerul Zeilor.” „Zei” este un cuvânt de cod pentru chakre. Notează
-        cele două coarne din frunte, evidențiate în imaginea lui Azazel din
-        stânga, dar și razele care îi iese din cap; aceasta simbolizează Șarpele
-        ridicat.
+        The horns are symbolic of the life force, the witchpower, vril,
+        chi...This is symbolized by the symbol for the planet Mercury [shown
+        directly below]. "Mercury" is known as "Messenger of the Gods." "God/s"
+        is a code-word for the chakras. Note the horns shown on the image of
+        Azazel [shown at left], with the rays shining fromm his head,
+        representing the risen serpent.
       </Text>
 
       <View style={{ flexDirection: "row", justifyContent: "space-evenly" }}>
@@ -261,26 +249,25 @@ const SimboluriSatanice = (props) => {
       {/* nested link in text */}
       <Text style={look.baseText}>
         <Text style={look.baseText}>
-          PIRAMIDA reprezintă forma chakrelor umane. Partea care lipsește din
-          vârful piramidei reprezintă munca neterminată din sufletele noastre și
-          OCHIUL ATOTVĂZĂTOR – care în gnosticism reprezintă atotcunoașterea
-          care se manifestă atunci când dobândești zeificarea. Această stare mai
-          este cunoscută ca „SAMADI,” adică „SUPER-CONȘTIINȚĂ.” Poza din stânga
-          a fost luată de pe bancnota americană de $1. Statele Unite ale
-          Americii au fost fondate în întregime pe principiile masonice și nu a
-          fost absolut deloc creștină.
+          The PYRAMID is symbolic of the shape of the human chakra. The missing
+          capstone represents the unfinished work and the ALL-SEEING EYE
+          represents the gnosis and all-knowing when one reaches the godhead.
+          This state is also known as "SAMADI" or "SUPER CONSCIOUSNESS." The
+          photo at left was taken from the US One Dollar Bill. The United
+          States, government and all, was founded upon Masonic prinicples and is
+          not Christian by any stretch of the imagination.
         </Text>
 
         <Text
           style={look.linkTextLightBlue}
           onPress={() => {
             Linking.openURL(
-              "https://666soarelenegru.blogspot.co.uk/2010/09/adevarul-despre-noua-ordine-mondiala.html"
+              "https://satanslibrary.org/ExposingChristianity/NEW_WORLD_ORDER.html"
             );
           }}
         >
           {" "}
-          Francmasoneria originală a fost satanică
+          Original Freemasonry was of Satan.
         </Text>
       </Text>
       {/* nested link in text */}
@@ -332,21 +319,20 @@ const SimboluriSatanice = (props) => {
       {/* image */}
 
       <Text style={look.baseText}>
-        este numărul cabalistic al Soarelui. 666 este a-tot-importanta chakră
-        solară. Adevărata semnificație a „templului lui Solomon” este TEMPLUL
-        SOARELUI. „Sol,” „Om” și „On” sunt cuvinte pentru soare. „Sol” este
-        cuvântul latinesc pentru Soare. „Om” este numele dat de hinduși soarelui
-        spiritual. „On” este cuvântul egiptean pentru soare. Simbolismul
-        templului lui Solomon a fost furat de evrei și transformat de aceștia
-        într-o figură fictivă, la fel ca și bazaconia numită „nazarinean” și la
-        fel ca aproape tot ceea ce se găsește în biblia iudeo-creștină.
-        Adevărata semnificație a „templului Soarelui” este una spirituală;
-        simbolizează sufletul perfecționat în care razele chakrei solare (666) –
-        care este centrul sufletului și care circulă energia spirituală –
-        radiază în 8 raze distincte. Sufleul strălucitor este simbolizat de
-        soare. 8 este numărul lui Astarte. De asemenea, acesta are de-a face și
-        cu „noul Ierusalim.” Numele de „Ierusalim” a fost furat, corupt și
-        transformat în numele unui oraș din Israel. „Ierusalim” ESTE UN CONCEPT!
+        is the Kabbalistic square of the Sun. 666 is the all-important solar
+        chakra. The true meaning of the "Temple of Solomon" is the TEMPLE OF THE
+        SUN. "Sol" "Om" and "On" are all words for the Sun. "Sol" is the Latin
+        word for the Sun and is close to the English word "soul." "Om" is a name
+        given by the Hindus to the Spiritual Sun and "On" is an Egyptian word
+        for Sun. The symbolism of the Temple of Solomon was stolen by the Jews
+        and made into a fictitious character, as with the fictitous nazarene and
+        nearly everything in the Judeo/Christian Bible. The true meaning of the
+        "Temple of the Sun" is spiritual. This symbolizes the perfected soul,
+        where the rays from the solar [666] chakra, which is the center of the
+        soul and circulates spiritual energy, radiates into 8 separate rays. The
+        shining soul is symbolized by the sun. 8 is the number of Astaroth. This
+        is also "The New Jerusalem." The name of "Jerusalem" has also been
+        stolen and corrupted into a city in Israel. "Jerusalem" IS A CONCEPT!
       </Text>
 
       <View style={{ flexDirection: "row", justifyContent: "space-evenly" }}>
@@ -392,33 +378,18 @@ const SimboluriSatanice = (props) => {
       </View>
 
       {/* nested link in text */}
-      <Text style={look.baseText}>
-        <Text style={look.baseText}>
-          Fii atent la simbolurile satanice de mai sus, în care numărul 8 –
-          răsturnat pe verticală – este simbolul infinității/imortalității.
-          Crucea dublă simbolizează sufletul uman la nivelul chakrei solare
-          (666), și cea a inimii/umerilor. Steaua cu 8 colțuri de mai sus, este
-        </Text>
 
-        <Text
-          style={look.linkTextLightBlue}
-          onPress={() => {
-            Linking.openURL(
-              "https://bucurialuisatan.com/informatii-despre-steaua-lui-astaroth/"
-            );
-          }}
-        >
-          {" "}
-          steaua lui Astarte
-        </Text>
-        <Text style={look.baseText}>
-          , pe care Biserica Catolică a etichetat-o ca „Sigiliul Fiarei.” Tot
-          ceea ce are de-a face cu spiritualitatea a fost calomniat, defăimat,
-          blasfemiat și pângărit de către bisericile catolice/creștine. „Lumina”
-          este de asemenea simbolică pentru sufletul strălucitor și
-          perfecționat.
-        </Text>
+      <Text style={look.baseText}>
+        Note on the two Satanic symbols on the far right above, the number 8 is
+        the symbol for infinity/immortality. The 8 is turned on its side. The
+        double cross symbolizes the human soul at the solar [666] and
+        heart/shoulder chakras. The 8 pointed star to the left is the Star of
+        Astaroth. The Catholic Church labeled this as "Sigil of the Beast."
+        Anything having to do with spirituality has been maligned, slandered,
+        blasphemed and desecrated by the Christian Churches. The shining
+        perfected soul is also symbolic as "The Light."
       </Text>
+
       {/* nested link in text */}
 
       {/* image */}
@@ -437,9 +408,9 @@ const SimboluriSatanice = (props) => {
       {/* image */}
 
       <Text style={look.baseText}>
-        Simbolul lui Astarte de sus simbolizează balansul și echilibrul la care
-        se ajunge atunci când nadiile Ida și Pingala sunt active în egală
-        măsura, iar Sushumna încetează să mai fie inactivă.
+        Astaroth's symbol at left symbolizes the balance and equilibrium,
+        obtained when both the Ida and Pingala nadis are equally active, and the
+        Sushumna is no longer dormant.
       </Text>
 
       {/* image */}
@@ -458,13 +429,10 @@ const SimboluriSatanice = (props) => {
       {/* image */}
 
       <Text style={look.baseText}>
-        Craniul și oasele este un simbol pentru stadiul Nigredo (transformare)
-        din lucrarea Magnum Opus (transformarea sufletului într-unul de zeu).
-        Acesta este stadiul morții, înainte de purificarea sufletului în
-        zeificare. Zgura este separată de partea pură. (Moartea și învierea
-        multor Zei păgâni – cum e Odin, Horus, etc. – simbolizează același
-        stadiu. Te-ai prins acum de unde au furat jidanii povestea gogonată cu
-        „moartea și învierea gunoiului Isus”)
+        The Skull and Bones is symbolic of the Nigredo [transformation] stage of
+        the Magnum Opus (The transformation of the soul into the godhead). This
+        is the death stage in the work, before the soul is purified into the
+        godhead. The dross is separated from the pure.
       </Text>
 
       {/* image */}
@@ -483,9 +451,9 @@ const SimboluriSatanice = (props) => {
       {/* image */}
 
       <Text style={look.baseText}>
-        De asemenea, Soarele Negru, corbul, cioara și culoarea neagră
-        simbolizează și ele acest stadiu Nigredo (transformare). Soarele Negru
-        este Soarele astral.
+        The Black Sun, the Raven, the Crow, and the color black also syin
+        regards to the star in reverse: mbolize the Nigredo [transformation]
+        stage. The Black Sun is the astral Sun.
       </Text>
 
       {/* image */}
@@ -504,11 +472,11 @@ const SimboluriSatanice = (props) => {
       {/* image */}
 
       <Text style={look.baseText}>
-        Păunul este sacru înaintea lui Satan și reprezintă cel de-al treilea
-        ochi și stadiul multicolor din Magnum Opus, stadiu care urmează imediat
-        după cel Nigredo (transformare). „Lucifer, Lucifer, întinde-ți poala și
-        trece-mă repede prin strâmtoarea văii morții, spre lumina strălucitoare,
-        spre palatul Zeilor.” – Isanatha Muni
+        The Peacock is sacred to Satan and represents the third eye and the
+        multi-colored stage of the Magnum Opus following the Nigredo
+        [transformation]. Lucifer, Lucifer, stretch your tail, and lead me away
+        full speed through the strait passage, of the valley of death, to the
+        shining light, the palace of of the Gods -Isanatha Muni
       </Text>
 
       {/* image */}
@@ -527,21 +495,19 @@ const SimboluriSatanice = (props) => {
       {/* image */}
 
       <Text style={look.baseText}>
-        Crucea întoarsă este un simbol antic și DA, precedă creștinismul și
-        rădăcinile lui evreiești, cu mii de ani. Adevărata semnificație a
-        acesteia este modul corect de aliniere a chakrelor. A-tot-importanta
-        chakra solară (666) se aliniază cu vârful în jos, conferindu-i
-        sufletului putere.
+        The inverted cross is a very ancient symbol, YES, predating Christianity
+        and its Jewish root by thousands of years. Its true meaning symbolizes
+        the correct way of aligning the chakras. The all-important solar [666]
+        chakra is aligned point down, and gives the soul its power.
       </Text>
 
       <Text style={look.baseText}>
-        Cu privire la chakra solară și francmasonerie: personajul „Hiram Abiff”
-        e o altă alegorie. „HIRAM” este o mantră foarte antică a soarelui. A
-        Soarelui Negru (soarele astral). Hrim e în strânsă conexiune cu Hiram
-        Abiff – „care e prezentat tuturor candidaților, atunci când trec prin
-        gradul al treilea în francmasonerie.” Atenție, al TREILEA grad – a treia
-        chakră e chakra solară. Chakra aurie. Chakra soarelui, care e
-        simbolizată și de svastica.
+        Concerning the Solar Chakra and Freemasonry: The character "Hiram Abiff"
+        is another allegory. Note "HIRAM" is a very ancient mantra for the Sun.
+        The Black Sun [astral Sun]. Hrim ties into the freemason Hiram Abiff.
+        “presented to all candidates during the third degree in Freemasonry.”
+        Note THIRD- the third solar chakra. The gold chakra. The Sun chakra,
+        which is also symbolized by the swastika.
       </Text>
 
       <View
@@ -568,61 +534,47 @@ const SimboluriSatanice = (props) => {
         >
           <Text
             style={{
-              color: "red",
+              color: "blue",
               fontSize: 19,
               textDecorationLine: "underline",
             }}
+            onPress={() => {
+              Linking.openURL("https://en.wikipedia.org/wiki/Hiram_Abiff");
+            }}
           >
-            Citat de pe WikiPedia despre Hiram Abiff: {"\n"}
+            From Wikipedia: article on Hiram Abiff {"\n"}
             {"\n"}
           </Text>
           <Text style={{ fontStyle: "italic" }}>
-            „Hiram Abiff (de asemenea Hiram Abif sau ‘fiul văduvei’) este
-            caracterul central dintr-o alegorie care e descoperită tuturor
-            candidaților aflați în gradul al treilea în francmasonerie. Hiram e
-            prezentat drept arhitectul șef al Templului regelui Solomon, care e
-            omorât în templul pe care el însuși l-a proiectat, de către trei
-            bandiți care încearcă fără succes, să-l forțeze pe Hiram să le
-            dezvăluie parolele secrete ale Maeștrilor Masoni.” mele.
+            Hiram Abiff (also Hiram Abif or the Widow's son) is the central
+            character of an allegory presented to all candidates during the
+            third degree in Freemasonry. Hiram is presented as the chief
+            architect of King Solomon's Temple, who is murdered in the Temple he
+            designed by three ruffians during an unsuccessful attempt to force
+            him to divulge the Master Masons' secret passwords.
           </Text>
         </Text>
       </View>
 
       <Text style={look.baseText}>
-        NOTĂ: „Hiram e prezentat drept arhitectul șef al Templului regelui
-        Solomon.” {'\n\n'} Cu alte cuvinte, chakra solară simbolizată de crucea
-        inversată, este sursa lucrării Magnum Opus și centrala de energie a
-        sufletului. Acest lucru e simbolizat și de ciocanul lui Thor. Chakra
-        solară e „arhitectul sufletului.” Toată energia care împuternicește
-        sufletul vine din această chakră. Dat fiind faptul că e localizată în
-        proximitatea bazinului, aceasta ne-a alimentat și ne-a dat viață în
-        pântecul mamei. Hiram Abiff nu e un personaj istoric, ci un CONCEPT.
-        „Parolele secrete” sunt mantrele și cuvintele de putere care trezesc și
-        împuternicesc chakrele. Toate religiile păgâne antice au pus o mare
-        emfază pe soare. Soarele e cel ce ne dă viață, iar aici e inclus și
-        soarele astral al sufletului; adică „Templul lui Solomon.” Chakra solară
-        joacă un rol important și în Magnum Opus.
+        NOTE: “Hiram is presented as the chief architect of King Solomon's
+        Temple.” In other words, the solar chakra symbolized by the Satanic
+        inverted cross, is the source of the magnum opus and the powerhouse of
+        the soul. This is also symbolized by Thor's Hammer. The solar chakra is
+        the "architect of the soul." All energy to empower your soul comes from
+        this chakra. The solar chakra being located near the navel is also the
+        spot where we were first nourished and given life in our mother's womb.
+        Hiram Abiff is not a character, but a CONCEPT. The "secret passwords"
+        are the mantras and words of power that awaken and empower the chakras.
+        All of the ancient Pagan religions placed emphasis on the Sun. The Sun
+        is the giver of life and this also includes the astral Sun of the soul;
+        the "Temple of Solomon." The solar chakra also plays a key role in the
+        magnum opus.
       </Text>
       <BLSButton navigate={props} />
     </ScrollView>
   );
 };
 
-const style = StyleSheet.create({
-  link: {
-    textAlign: "center",
-    color: "#4BB4FF",
-    textDecorationLine: "underline",
-    paddingTop: 10,
-    letterSpacing: 1,
-    borderTopWidth: 1,
-    borderColor: "white",
-    marginLeft: 20,
-    marginTop: 15,
-    marginRight: 10,
-    fontSize: 20,
-    fontStyle: "italic",
-  },
-});
 
 export default SimboluriSatanice;

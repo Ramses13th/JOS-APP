@@ -1,6 +1,6 @@
 import { ScrollView, Text, Linking } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const Links = (props) => {
   console.log("6_nav_loaded");
@@ -8,7 +8,7 @@ const Links = (props) => {
     <ScrollView style={look.background}>
       <Text
         style={{
-          textAlign: "left",
+          textAlign: "center",
           color: "#4BB4FF",
           textDecorationLine: "underline",
           paddingTop: 10,
@@ -16,170 +16,17 @@ const Links = (props) => {
           letterSpacing: 1,
           marginLeft: 20,
           marginRight: 10,
-          fontSize: 24,
+          fontSize: 36,
           fontStyle: "italic",
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/forum/index.php");
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/JLinks.html"
+          );
         }}
       >
-        Forumurile Bucuria lui Satan
+        Full Links List
       </Text>
-      <Text
-        style={{
-          textAlign: "left",
-          color: "#4BB4FF",
-          textDecorationLine: "underline",
-          paddingTop: 10,
-          letterSpacing: 1,
-          marginLeft: 20,
-          marginTop: 15,
-          marginRight: 10,
-          fontSize: 24,
-          fontStyle: "italic",
-        }}
-        onPress={() => {
-          Linking.openURL("https://www.crestinismulexpus.blogspot.ro/");
-        }}
-      >
-        Creștinismul Expus
-      </Text>
-      <Text
-        style={{
-          textAlign: "left",
-          color: "#4BB4FF",
-          textDecorationLine: "underline",
-          paddingTop: 10,
-          letterSpacing: 1,
-          marginLeft: 20,
-          marginTop: 15,
-          marginRight: 10,
-          fontSize: 24,
-          fontStyle: "italic",
-        }}
-        onPress={() => {
-          Linking.openURL("https://www.666soarelenegru.blogspot.ro/");
-        }}
-      >
-        Soarele Negru 666
-      </Text>
-      <Text
-        style={{
-          textAlign: "left",
-          color: "#4BB4FF",
-          textDecorationLine: "underline",
-          paddingTop: 10,
-          letterSpacing: 1,
-          marginLeft: 20,
-          marginTop: 15,
-          marginRight: 10,
-          fontSize: 24,
-          fontStyle: "italic",
-        }}
-        onPress={() => {
-          Linking.openURL("https://www.adevaratulholocaust.blogspot.ro/");
-        }}
-      >
-        Adevăratul Holocaust
-      </Text>
-      <Text
-        style={{
-          textAlign: "left",
-          color: "#4BB4FF",
-          textDecorationLine: "underline",
-          paddingTop: 10,
-          letterSpacing: 1,
-          marginLeft: 20,
-          marginTop: 15,
-          marginRight: 10,
-          fontSize: 24,
-          fontStyle: "italic",
-        }}
-        onPress={() => {
-          Linking.openURL("https://www.altreileasex.blogspot.ro/");
-        }}
-      >
-        Societatea Thule de al Treilea Sex
-      </Text>
-      <Text
-        style={{
-          textAlign: "left",
-          color: "#4BB4FF",
-          textDecorationLine: "underline",
-          paddingTop: 10,
-          letterSpacing: 1,
-          marginLeft: 20,
-          marginTop: 15,
-          marginRight: 10,
-          fontSize: 24,
-          fontStyle: "italic",
-        }}
-        onPress={() => {
-          Linking.openURL("https://www.adevaruldespreislam.blogspot.be/");
-        }}
-      >
-        Adevărul despre islam {"\n"}
-      </Text>
-      <Text
-        style={{
-          textAlign: "left",
-          color: "#4BB4FF",
-          textDecorationLine: "underline",
-          paddingTop: 10,
-          letterSpacing: 1,
-          marginLeft: 20,
-          marginTop: 15,
-          marginRight: 10,
-          fontSize: 18,
-          fontStyle: "italic",
-        }}
-        onPress={() => {
-          Linking.openURL("https://www.youtube.com/user/BucuriaLuiSatan");
-        }}
-      >
-        YouTube – Bucuria lui Satan
-      </Text>
-      <Text style={look.baseText}>
-        {" "}
-        <Text
-          style={{
-            textAlign: "left",
-            color: "#4BB4FF",
-            textDecorationLine: "underline",
-            paddingTop: 10,
-            letterSpacing: 1,
-            marginLeft: 20,
-            marginTop: 15,
-            marginRight: 10,
-            fontSize: 18,
-            fontStyle: "italic",
-          }}
-          onPress={() => {
-            Linking.openURL("https://www.youtube.com/user/iknowthetruth88/videos");
-          }}
-        >
-          YouTube – Exposing Christianity
-        </Text>{" "} <Text>(eng)</Text>
-      </Text>
-      <Text
-          style={{
-            textAlign: "left",
-            color: "#4BB4FF",
-            textDecorationLine: "underline",
-            paddingTop: 10,
-            letterSpacing: 1,
-            marginLeft: 20,
-            marginTop: 15,
-            marginRight: 10,
-            fontSize: 24,
-            fontStyle: "italic",
-          }}
-          onPress={() => {
-            Linking.openURL("https://bucurialuisatan.com/biblioteca/");
-          }}
-        >
-          {'\n'}Biblioteca lui Satan
-        </Text>
       <BLSButton navigate={props} />
     </ScrollView>
   );

@@ -208,7 +208,7 @@ const Ministerul = (props) => {
 
       <Text style={look.baseText}>
         <Text style={{ color: "#5E6DFF" }}>
-          Înaltul Preot Micama Gmicalzom{"\n\n"}
+          Înaltul Preot Micama Gmicalzoma{"\n\n"}
         </Text>
         {/* Link Listat */}
         <Text

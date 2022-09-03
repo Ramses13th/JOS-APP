@@ -1,6 +1,6 @@
 import { ScrollView, Text, Linking } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const ArmataIadului = (props) => {
   console.log("14_nav_loaded");
@@ -21,11 +21,11 @@ const ArmataIadului = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/mesaj-de-la-satan-despre-razboiul-spiritual/"
+            "https://www.joyofsatan.org/hailtosatansvictory666.angelfire.com/1_18_15.html"
           );
         }}
       >
-        Mesaj de la Satan despre Războiul Spiritual
+        PLEASE READ: IMPORTANT!
       </Text>
       <Text
         style={{
@@ -42,11 +42,11 @@ const ArmataIadului = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/in-ceea-ce-priveste-razboiul-spiritual/"
+            "https://www.joyofsatan.org/hailtosatansvictory666.angelfire.com/Message-From-Satan.html"
           );
         }}
       >
-        În ceea ce privește Războiul Spiritual
+        Spiritual Warfare Message from Satan
       </Text>
       <Text
         style={{
@@ -63,11 +63,11 @@ const ArmataIadului = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/program-de-formare-spirituala-pentru-satanisti/"
+            "https://www.joyofsatan.org/hailtosatansvictory666.angelfire.com/Concerning_Spiritual_Warfare.html"
           );
         }}
       >
-        Program de formare spirituală pentru Sataniști
+        Concerning Spiritual Warfare
       </Text>
       <Text
         style={{
@@ -84,11 +84,11 @@ const ArmataIadului = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/tactici-si-strategii-in-lupta-de-zi-cu-zi/"
+            "https://www.joyofsatan.org/hailtosatansvictory666.angelfire.com/Spiritual_Warfare_Training.html"
           );
         }}
       >
-        Tactici și strategii în Lupta de zi cu zi
+        Spiritual Warfare Training Program for Satanists
       </Text>
       <Text
         style={{
@@ -104,10 +104,95 @@ const ArmataIadului = (props) => {
           fontStyle: "italic",
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/forum/index.php");
+          Linking.openURL(
+            "https://www.joyofsatan.org/hailtosatansvictory666.angelfire.com/Tactics.html"
+          );
         }}
       >
-        Intră pe Forum
+        Tactics and Stategies in the Everyday World
+      </Text>
+      <Text
+        style={{
+          textAlign: "center",
+          color: "#4BB4FF",
+          textDecorationLine: "underline",
+          paddingTop: 10,
+          letterSpacing: 1,
+          marginLeft: 20,
+          marginTop: 15,
+          marginRight: 10,
+          fontSize: 24,
+          fontStyle: "italic",
+        }}
+        onPress={() => {
+          Linking.openURL(
+            "https://www.joyofsatan.org/hailtosatansvictory666.angelfire.com/Bulletin_Board666.html"
+          );
+        }}
+      >
+        Spiritual Warfare Bulletin Board
+      </Text>
+      <Text
+        style={{
+          textAlign: "center",
+          color: "#4BB4FF",
+          textDecorationLine: "underline",
+          paddingTop: 10,
+          letterSpacing: 1,
+          marginLeft: 20,
+          marginTop: 15,
+          marginRight: 10,
+          fontSize: 24,
+          fontStyle: "italic",
+        }}
+        onPress={() => {
+          Linking.openURL(
+            "https://www.joyofsatan.org/hailtosatansvictory666.angelfire.com/Resources.html"
+          );
+        }}
+      >
+        Spiritual Warfare Resources 666
+      </Text>
+      <Text
+        style={{
+          textAlign: "center",
+          color: "#4BB4FF",
+          textDecorationLine: "underline",
+          paddingTop: 10,
+          letterSpacing: 1,
+          marginLeft: 20,
+          marginTop: 15,
+          marginRight: 10,
+          fontSize: 24,
+          fontStyle: "italic",
+        }}
+        onPress={() => {
+          Linking.openURL("https://satanslibrary.org/GroupsForumsBackup.html");
+        }}
+      >
+        JOIN HELL'S ARMY E-GROUP
+      </Text>
+      <Text
+        style={{
+          textAlign: "center",
+          color: "#4BB4FF",
+          textDecorationLine: "underline",
+          paddingTop: 10,
+          letterSpacing: 1,
+          marginLeft: 20,
+          marginTop: 15,
+          marginRight: 10,
+          fontSize: 24,
+          fontStyle: "italic",
+        }}
+        onPress={() => {
+          Linking.openURL(
+            "https://www.joyofsatan.org/hailtosatansvictory666.angelfire.com/Hells_Army_Manual.html"
+          );
+        }}
+      >
+        For a Free Copy of Hell's Army Spiritual Warfare Training Manual in pdf,
+        Please Click Here
       </Text>
       <BLSButton navigate={props} />
     </ScrollView>

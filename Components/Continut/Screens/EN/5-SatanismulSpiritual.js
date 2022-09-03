@@ -1,6 +1,6 @@
 import { ScrollView, Text, View } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const SatanismulSpiritual = (props) => {
   console.log("5_nav_loaded");
@@ -8,16 +8,16 @@ const SatanismulSpiritual = (props) => {
     <ScrollView style={look.background}>
       <View style={look.baseContainer}>
         <Text style={look.baseText}>
-          Satanismul spiritual se diferențiază de satanismul laveyan. Noi suntem
-          conștienți de existența lui Satan/Lucifer ca ființă reală. Noi nu
-          suntem atei. În ciuda discrepanțelor majore, Biserica lui Satan,
-          fondata în 1966 de către Anton Szandor LaVey, în prezent adoptă o
-          atitudine ateistă în ceea ce privește zeitățile externe, iar pe Satan
-          îl văd doar ca pe un „arhetip.”
+          Spiritual Satanism differs from LaVeyan Satanism. We are aware of the
+          existence of Satan/Lucifer as an actual being. We are not atheists! In
+          spite of major discrepancies, the Church of Satan, founded 1966, by
+          Anton Szandor LaVey, presently takes an atheistic stance as far as
+          external deities are concerned, and views Satan as only an
+          "archetype".
         </Text>
         <Text style={look.baseText}>
-          În lumina noilor cunoștințe care au fost dobândite în urma a sute de
-          ore de studiu profund, am descoperit următoarele:
+          In light of new knowledge based upon hundreds of hours of intense and
+          in-depth research, we have discovered the following:
         </Text>
 
         {/* container lista */}
@@ -30,7 +30,7 @@ const SatanismulSpiritual = (props) => {
               paddingTop: 20,
             }}
           >
-            1. Satan este adevăratul Zeu Creator.
+            1. Satan is our True Creator God.
           </Text>
           <Text
             style={{
@@ -40,10 +40,9 @@ const SatanismulSpiritual = (props) => {
               paddingTop: 20,
             }}
           >
-            2. „YHVH” de asemenea cunoscut ca „Iehova” de către cei înșelați,
-            este o entitate fictivă. „YHVH” reprezintă cele patru elemente și de
-            asemenea cele patru direcții, în sistemul popular evreiesc de magie,
-            care este disponibil publicului larg.
+            2. "YHVH" otherwise known as "Jehovah" by the deluded, is a false
+            entity. "YHVH" stands for the four elements and corners in the
+            popular Jewish systems of magick that are available to the public.
           </Text>
           <Text
             style={{
@@ -53,11 +52,10 @@ const SatanismulSpiritual = (props) => {
               paddingTop: 20,
             }}
           >
-            3. Personajul „Isus Hristos” este fictiv și a fost creat prin
-            adaptarea a mai mult de 18 legende păgâne despre Zei care au fost
-            spânzurați de copaci – la fel ca Odin – și care mai apoi au înviat;
-            în legendele originale, aceasta descrie operația alchimică a
-            transformării sufletului prin moarte și apoi înviere.
+            3. The character "Jesus Christ" is fictitious and was stolen from
+            some 18+ Pagan legends of a God hanging from a tree, such as Odin,
+            then being resurrected, and is another description of the alchemical
+            operation of transforming the soul- death and then resurrection.
           </Text>
           <Text
             style={{
@@ -67,17 +65,15 @@ const SatanismulSpiritual = (props) => {
               paddingTop: 20,
             }}
           >
-            4. Nazarineanul este, și niciodată nu a fost altceva, decât o
-            unealtă folosită cu scopul de a îndepărta toate cunoștințele
-            spirituale originale și adevărate și, prin urmare, de a dezarma
-            publicul larg de puterile lor spirituale. Omenirea a plătit cu
-            miliarde și miliarde de dolari, cu boală, sărăcie și suferință,
-            datorită îndepărtării acestor cunoștințe. Învățăturile și
-            cunoștințele spirituale au fost îndepărtate în mod sistematic,
-            sucite și corupte, cu scopul de A NE ÎNROBI PE TOȚI, ATÂT SPIRITUAL
-            CÂT ȘI FINANCIAR. Populația a fost forțată să creadă că Nazarineanul
-            este o entitate reală, prin asta cei din frunte au menținut
-            controlul și au cules nespusa avuție și putere.
+            4. The Nazarene is and has never been anything more than a tool to
+            remove all true spiritual knowledge and disarm the populace of their
+            spiritual powers. Humanity has paid to the tune of trillions upon
+            trillions of dollars, and with sickness, misery, and suffering due
+            to the removal of this knowledge. Spiritual knowledge was
+            systematically destroyed, twisted, and corrupted to SPIRITUALLY AND
+            FINANCIALLY ENSLAVE US ALL. By force-feeding the populace that the
+            Nazarene is a real entity, those at the top have maintained control
+            and have reaped untold wealth and power.
           </Text>
           <Text
             style={{
@@ -87,91 +83,77 @@ const SatanismulSpiritual = (props) => {
               paddingTop: 20,
             }}
           >
-            5. Satanismul adevărat a precedat creștinismul cu sute și mii de ani
-            și are ca fundament transformarea totală a sufletului. Creștinii
-            sunt amăgiți în a-l „accepta pe Isus Hristos” și de a se bucura de
-            „salvare,” ceea ce este în totalitate greșit. Totul în religia
-            creștină este fals, iar noi dovedim asta cu dovezi care spulberă
-            orice îndoială. Păcăleala creștină a „salvării” își are originile în
-            învățăturile alchimice, furate și corupte, în care, în adevăr,
-            fiecare individ în parte lucrează activ la transformarea sa
-            spirituală, cu scopul de a atinge dumnezeirea.
+            5. True Satanism preceded Christianity by thousands of years and is
+            based upon total transformation of the soul. Christians are deluded
+            into "accepting Jesus Christ" and "living saved" which is all false.
+            Everything in the Christian religion is false and we prove this
+            beyond all doubts. The Christian "saved" hoax is based upon stolen
+            and corrupted knowledge of alchemy, where one truly works
+            spiritually to transform one's soul into godhead.
           </Text>
         </View>
         {/* container lista */}
 
         <Text style={look.baseText}>
-          Mulți sataniști spirituali Îl venerează și I se închină lui
-          Satan/Lucifer. Alții Îl recunosc ca și prieten și nu I se închină. Noi
-          respectăm individualismul și alegerea personală. Relația cu
-          Satan/Lucifer ține de individ, dat fiind faptul că satanismul
-          valorifică gândirea liberă și individualismul.
+          Many Traditional Satanists worship Satan/Lucifer. Some acknowledge him
+          as a friend and do not worship. We respect individuality and personal
+          choices. One's relationship with Satan/Lucifer is up to the
+          individual, as Satanism values free thought and individuality.
         </Text>
         <Text style={look.baseText}>
-          Satan este acela care aduce cunoașterea. Scopul satanismului spiritual
-          este de a-i învăța pe adepți cum sa aplice această cunoaștere în
-          vederea transformării sufletelor lor și atingerea dumnezeirii, precum
-          a fost intenția originală a Zeului nostru Creator, Satan.
+          Satan is the bringer of knowledge. The goal of Spiritual Satanism is
+          to apply this knowledge and transform our souls into godhead, as was
+          originally intended by our Creator God Satan.
         </Text>
         <Text style={look.baseText}>
-          Spre deosebire de cele mai multe religii, satanismul spiritual
-          încurajează individul în a pune întrebări cu privire la orice. A fi
-          cel mai bun și a-ți depăși limitele sunt părți esențiale ale
-          satanismului spiritual, iar acestea încep odată cu utilizarea
-          creierului din ce în ce mai mult, până se ajunge la utilizarea
-          acestuia la potențialul său maxim.
+          Unlike most religions, Spiritual Satanism encourages one to question
+          everything. Being one's personal best and exceeding limitations are
+          the essence of Spiritual Satanism and this begins with using one's
+          brains to their maximum potential.
         </Text>
         <Text style={look.baseText}>
-          Satanismul spiritual nu intră în conflict cu știința în nici un fel.
-          Noi încurajăm cu tărie știința și susținem toate cunoștințele
-          științifice și cercetările de orice natură. Suntem cu toții conștienți
-          că omenirea este cu mult în urmă, din punct de vedere al înțelegerii
-          și cunoștințelor științifice, datorită secolelor de oprimare din
-          partea creștinismului. Credem că toate fenomenele spirituale și
-          paranormale pot fi explicate științific, în mod rațional; știința nu a
-          progresat îndeajuns de mult pentru a înțelege și explica multe din așa
-          numitul „supranatural.”
+          Spiritual Satanism does not in any way conflict with science. We
+          strongly encourage and support all scientific knowledge and enquiry.
+          We are well aware humanity is dangerously behind in scientific
+          knowledge and understanding due to centuries of oppression by
+          Christianity. We believe that all spiritual and paranormal phenomena
+          can be scientifically explained in a rational manner; scientific
+          knowledge has not yet progressed far enough to comprehend or explain
+          much of the so-called "supernatural."
         </Text>
         <Text style={look.baseText}>
-          În satanismul spiritual nu sunt mediatori. Noi îi încurajăm pe ai
-          noștri să interacționeze ei înșiși cu Satan. Ministerul este aici doar
-          pentru îndrumare și suport, iar relația ta cu Satan este strict între
-          tine și El. Adoptăm motto-ul „responsabilitatea pentru responsabil.”
-          Nu avem stabilite nici un fel de limitări în ceea ce privește
-          cunoașterea sau puterea personală, ci din contră, facem tot ce ne stă
-          în putință pentru a pune la dispoziția TUTUROR întreaga cunoștință și
-          învățătură disponibilă; nu păstrăm nimic pentru „câțiva aleși” sau
-          pentru o „elită auto-numită,” cum se întâmplă în cazul altor religii.
-          Satan încurajează studiul individual, cercetarea și experimentarea
-          directă.
+          There are no mediators in Spiritual Satanism. We strongly encourage
+          our people to interact one on one with Satan. The ministry is here for
+          guidance and support only. One's relationship with Satan is between
+          that individual and Satan. We take the stance of "responsibility to
+          the responsible." We place no limitations on knowledge or personal
+          power and do everything we can to make all knowledge available to
+          EVERYONE- not just a select few who are a self-appointed "elite" as
+          with other religions. Satan encourages self-study, learning, direct
+          experience.
         </Text>
         <Text style={look.baseText}>
-          Cei mai mulți sataniști spirituali se dedică personal și își iau un
-          angajament înaintea lui Satan. Acest lucru este foarte important
-          deoarece Satan ne protejează pe măsură ce noi lucrăm pentru a ne
-          avansa puterile. Aceia care intră în ocultism de unii singuri, fără
-          nici un fel de protecție spirituală, adesea întâmpină dezastrul. Odată
-          ce dedicarea/angajamentul este făcut, Demonii ne ghidează adesea și
-          lucrează cu noi pentru a ne ajuta să avansăm. Spre deosebire de
-          religiile de dreapta, satanismul spiritual încurajează acțiunea. Satan
-          vrea ca oamenii săi să își trăiască viețile la maxim și să evolueze.
+          Most Spiritual Satanists make a commitment to Satan. The commitment is
+          very important because Satan protects us as we work to advance our
+          powers. Those who go it alone or without any spiritual protection
+          often meet with disaster. Once one makes a commitment, Demons often
+          guide us and work with us to help us advance. Unlike right hand path
+          religions, Spiritual Satanism encourages action. Satan wants his
+          people to live life to the fullest and to evolve.
         </Text>
         <Text style={look.baseText}>
-          Satan este întotdeauna acolo pentru noi, însă, pe măsură ce evoluăm,
-          El se așteaptă ca noi să ne luăm viața în propriile mâini,
-          folosindu-ne de propriile noastre puteri. Creștinismul în mod voit îi
-          face pe oameni, nimic altceva decât schilozi. Creștinii mereu se laudă
-          cu Iisus care a vindecat oameni. Acești oameni rămân însă, precum
-          sclavii, deoarece niciodată nu li se cere și nici măcar nu sunt
-          învățați cum să se vindece pe ei înșiși sau pe ceilalți. Arhetipul
-          nazarinean susține și încurajează atitudinea de sclav, de servitor și
-          a individului care îndură abuzuri fără sfârșit, cu scopul de a
-          programa umanitatea în a fi niște sclavi perfecți într-o nouă ordine
-          mondială. Nazarineanul pune un accent deosebit pe „viața de apoi,” cu
-          scopul de a crea mentalitatea că viața pe care noi o trăim acum nu
-          contează și nu este importantă în nici un fel. Această dispoziție
-          sufletească este esențială, deoarece îi face pe adepți să îndure tot
-          felul de abuzuri, spre beneficiul câtorva.
+          Satan is always there for us, but as we progress, he expects us to
+          handle things, as we are able to, for ourselves, using our own powers.
+          Christianity and its cohorts deliberately make cripples out of people.
+          Christians forever rave about how their Nazarene has healed people.
+          These people remain as slaves because they are never taught how to,
+          nor are they required to heal themselves or others. The Nazarene
+          archetype stands for slavery, servitude, and enduring endless abuse in
+          order to program humanity to be the perfect slaves in a new world
+          order. The Nazarene places total emphasis on the "afterlife" in order
+          to create the mindset that the life we are now living does not matter.
+          This frame of mind is essential for enduring all kinds of abuse for
+          the benefit of a few.
         </Text>
         <View
           style={{
@@ -196,124 +178,120 @@ const SatanismulSpiritual = (props) => {
               textAlign: "center",
             }}
           >
-            „Ne-a servit formidabil, acest mit al lui Hristos” – Papa Leo
-            al-X-lea (1475 – 1521)
+            "It has served us well, this myth of Christ" -Pope Leo X [1475-1521]
           </Text>
         </View>
         <Text style={look.baseText}>
-          Cât despre așa numitele „miracole” asociate cu creștinismul, precum și
-          vindecările care au avut loc, acestea nu au fost nici prea multe și
-          nici prea frecvente. Orice ființă umană cu cunoaștere spirituală și
-          putere, poate efectua aceleași fapte atribuite nazarineanului în
-          biblie și chiar mai multe. Cei mai mulți dintre creștini nu sunt
-          conștienți că ei, în adevăr, interacționează cu extratereștri abjecți
-          (vrășmași Nordici, de asemenea cunoscuți sub numele de „îngeri,”
-          cenușii și reptilieni), care, din când în când, oferă câte o
-          demonstrație pentru a da credibilitate minciunii creștinismului. Cât
-          despre adepții New Age, mulți dintre ei cer sprijin din partea
-          îngerilor, însă ei nu sunt învățați să facă nimic de ei înșiși.
-          Satan/Lucifer este adevăratul Zeu Creator, dar și Eliberator al
-          omenirii. El nu încearcă să îi sperie pe oameni, și prin asta să îi
-          țină departe de puterea și cunoștințele spirituale, deoarece el este
-          cinstit, neavând nimic de ascuns.
+          As for the so-called "miracles" connected with Christianity, any
+          healings have been very few and far in-between. These are also based
+          upon allegories related to transforming one's soul. Any human being
+          with spiritual knowledge and power can accomplish all of the feats
+          attributed to the Nazarene in the bible, and more. Most Christians are
+          unaware that they are dealing with nefarious aliens [enemy Nordics
+          also known as "angels" and another ET race known as the Greys], who
+          put up a show every now and then to give credibility to the lie. With
+          the New Age practitioners, many call upon angels for assistance and
+          learn nothing. The same theme of human ignorance and powerlessness
+          prevails. Satan/Lucifer is the True Creator God of, and the great
+          liberator of humanity. He does not fear humans having spiritual power
+          and knowledge because he is truthful and has nothing to hide.
         </Text>
         <Text style={look.baseText}>
-          Satan împarte cu noi cunoștința prin care putem deveni independenți și
-          liberi. Ne direcționează înspre a fi maeștrii/stăpânii propriilor
-          noastre vieți și destine. Satan și Demonii Săi sunt mereu prezenți
-          pentru a ne ajuta atunci când întâmpinăm situații pe care nu le putem
-          încă mânui. Satan își ține promisiunile; el este consecvent și iubitor
-          cu ai lui. Satan susține libertatea, tăria, puterea și dreptatea.
-          Satan ne învață că NU este în regulă să comitem abuzuri. Ne învață că
-          noi merităm să avem parte de plăceri, de fericire și de o viață mai
-          bună. El ne-a creat prin inginerie genetică, în același fel în care
-          oamenii noștri de știință creează clone folosindu-se de genetică, doar
-          că la un nivel mult mai avansat.
+          Satan gives us the knowledge to become independent and free. He
+          directs us to be masters of our own lives and destinies. Satan and his
+          Demons are always there to help us when there are things we cannot yet
+          handle. Satan keeps his promises; he is consistent and loving with his
+          own. Satan stands for freedom, strength, power, and justice. Satan
+          shows us it is NOT OK for us to take abuse. He shows us that we are
+          deserving of pleasure, happiness and a better life. He created us
+          through genetic engineering, the same as scientists are now creating
+          clones and working with genetics, but only on a much more advanced
+          level.
         </Text>
         <Text style={look.baseText}>
-          Mulți oameni disprețuiesc așa numitele puteri „oculte,” nu le iau în
-          considerare sau sunt complet ignoranți cu privire la ele. Adevărul
-          este că aceste puteri oculte au fost în mâinile câtorva timp de
-          secole, în timp ce creștinismul a fost o unealtă formidabilă de
-          îndepărtare a acestei cunoștințe din rândul populației.
+          Many people disregard so-called" "occult" power, they do not take it
+          seriously or are otherwise completely ignorant concerning it. The
+          truth is, occult power has been in the hands of a few for centuries.
+          Christianity has been their tool for removing this knowledge from the
+          populace.
         </Text>
         <Text style={look.baseText}>
-          Ceea ce a urmat după îndepărtarea acestei cunoștințe, a fost
-          inventarea unui trecut fictiv, pentru a-i împiedica pe oameni să
-          cunoască adevărul. Oamenii care nu înțeleg sau care nu sunt
-          familiarizați cu aceste îndeletniciri, sunt la mila acelora care le
-          dețin și care sunt adepți în utilizarea lor. Cu mii de ani în urmă, în
-          Egiptul Antic, această putere a fost bine cunoscută și cea mai mare
-          parte din populația acestei țări a știut cum să o folosească. Odată cu
-          intrarea în scenă a iudeo-creștinismului și a islamului, cunoștința a
-          fost îndepărtată și distrusă în mod sistematic, de orișiunde aceasta a
-          fost găsită.
+          Following the removal of knowledge, a fictitious past was invented to
+          keep people from knowing the truth. People who do not understand or
+          are unfamiliar with these skills are at the mercy of those who have
+          them and who are adept at using them. Thousands of years ago in
+          Ancient Egypt, this power was well known and most of the populace knew
+          how to use it. With the arrival of Judeo/Christianity and Islam,
+          knowledge was systematically destroyed wherever it was found.
         </Text>
         <Text style={look.baseText}>
-          Orașe, biblioteci, precum și orice altă sursă de învățătură ocultă au
-          fost distruse, în încercarea de a anihila toate cunoștințele Zeilor
-          originali (și Zeii noștri sunt extratereștrii) și despre puterile
-          sufletului. Zeii care au interacționat, împrietenit sau amestecat
-          (prin legături de sânge) cu oamenii, au fost blestemați și exilați.
+          Cities, libraries, and any other sources of knowledge were destroyed
+          in an attempt to annihilate all knowledge of the Original Gods [who
+          are extraterrestrials] and the powers of the human soul. The Gods who
+          interacted with, intermarried or befriended humanity were cursed and
+          banished.
         </Text>
         <Text style={look.baseText}>
-          Omenirea a fost izolată de adevăratul ei Zeu Creator Satan și a
-          decăzut de atunci din toate punctele de vedere. Abuzul asupra
-          copiilor, al animalelor, ușurința și nepăsarea cu care mediul
-          înconjurător, pământul și alte ființe au fost distruse, sunt doar
-          câteva dintre efectele degenerării spirituale. Cu mii de ani în urmă,
-          cu mult înainte de apariția iudeo-creștinismului, oamenii trăiau
-          împreună cu Zeii, în era cunoscută ca „Era de Aur.”
+          Humanity has been cut off from our True Creator God Satan and has
+          devolved ever since. The abuse of children, animals, careless
+          destruction and disregard for the environment, the earth, and other
+          living creatures are some of the effects of spiritual degeneration.
+          Thousands of years ago, long before the coming of Judeo/Christianity,
+          humans lived side by side with the Gods in the era known as "The
+          Golden Age."
         </Text>
         <Text style={look.baseText}>
-          Satan este Zeul sumerian cunoscut sub numele de „Ea” sau „Enki.” El
-          este un Zeu și nu un înger! El a fost denigrat și calomniat de-a
-          lungul secolelor cu falsități și minciuni. Cei mai mulți dintre oameni
-          nu îl cunosc pe Satan. Ei cred tot ceea ce li se spune despre el, fără
-          murmur și fără să pună întrebări. Frica este o unealtă puternică,
-          folosită timp de secole pentru a ține omenirea departe de Satan.
+          Satan is the Sumerian God known as "EA" or "ENKI." He is a GOD, not an
+          angel! He has been denigrated and slandered through the centuries with
+          falsehoods and lies. Most people do not know Satan. They believe
+          everything they are told about him without question. Fear is a
+          powerful tool that has been used for centuries to keep humanity away
+          from Satan.
         </Text>
         <Text style={look.baseText}>
-          Satan este cel mai strălucitor și cel mai puternic dintre Zei. Este
-          simbolizat de Vărsător, al 11-lea semn al Zodiacului. Vărsătorul este
-          un semn al civilizației, tehnologiei și genialității. Unul dintre
-          numerele lui Satan este 11.
+          Satan is the most brilliant and powerful of the Gods. He is symbolized
+          by the Water Bearer of the sign of Aquarius, the 11th sign of the
+          Zodiac. Aquarius is the sign of humanity, technology and genius. One
+          of Satan's numbers is 11.
         </Text>
         <Text style={look.baseText}>
-          Enki a instituit Ordinul Șarpelui din Egiptul Antic, de asemenea
-          cunoscut sub numele de „Fraternitatea Șarpelui.” De-a lungul
-          mileniilor, aceste învățături au fost corupte ajungând să nu se mai
-          asemene cu doctrinele originale. Acest ordin avea menirea de a aduce
-          omenirii învățături divine și putere, pentru a desăvârși Marea Lucrare
-          de transformare a sufletelor noastre. Aceste învățături au fost ținute
-          în mâinile câtorva și abuzate, în defavoarea noastră a tuturor, sub
-          conducerea zeilor vrășmași. Oamenilor li se spune că, dacă această
-          putere ar fi împărțită cu toată lumea, fiecare în parte ar abuza de
-          ea. Aceasta nu este decât o altă minciună creată și răspândită de cei
-          care se folosesc de aceste puteri la nesfârșit și în mod deliberat,
-          sub direcțiile primite de la aceia dintre extratereștrii care ne sunt
-          vrășmași și care se maschează sub numele de „Iehova.” A dezvălui
-          aceste bine ținute secrete omului de rând, ar însemna în mod sigur,
-          pierderea puterii celor de sus.
+          Satan/Enki established the Ancient Egyptian Order of the Serpent, also
+          known as "The Brotherhood of the Snake." Through the millennia, the
+          teachings have been corrupted and no longer resemble the original
+          doctrines. This Order was to bring humanity godly knowledge and power
+          and to complete the Great Work of transforming our souls. This
+          knowledge has been kept in the hands of a few and abused to the
+          detriment of us all under the direction of the enemy gods. People are
+          told if they are given this power, they will abuse it. This is another
+          lie created and spread by those who deliberately use these powers for
+          nefarious ends under the direction of the enemy extraterrestrials
+          masquerading as "Jehovah" and company. To reveal these well-kept
+          secrets to the average person would assure that those in control would
+          no longer retain their power.
         </Text>
         <Text style={look.baseText}>
-          Zeii sunt o rasă de humanoizi extratereștrii. În biblia creștină
-          aceștia sunt întâlniți sub numele de „nefilimi.” Aceste ființe sunt
-          foarte evoluate, extrem de avansate și cu o cunoștință și o putere
-          imensă. Ei și-au modificat ADN-ul, astfel încât ei nu îmbătrânesc.
+          The Gods are an extra-terrestrial humanoid race of beings. In the
+          Christian bible, they are referred to as the "Nephilim." These beings
+          are very evolved, highly advanced, and immensely knowledgeable and
+          powerful. They genetically modified their DNA, so they do not age.
         </Text>
         <Text style={look.baseText}>
-          În versiunea lui Simon a Necronomiconului (această carte își are
-          rădăcinile în mitologia mesopotamiană/sumeriană), fraza: „Când marele
-          urs apare în josul cerului” se refera la constelația Ursa Mare. Când
-          planetele se alienează într-o anumită ordine, se deschide o cale
-          pentru călătoriile în spațiu. Oamenii privesc mereu spre cer, când
-          Zeii se vor întoarce.
+          In the Simon version of the Necronomicon [this book is based upon
+          Mesopotamian/Sumerian mythology, even though classified as a work of
+          fiction], the phrase: "When the Great Bear hangs low in the sky"
+          refers to the constellation Ursa Major, part of the Big Dipper. When
+          the planets align a certain way, it opens up a travel line for space
+          travelers. People are always looking to the sky for when the Gods will
+          return. Humanity's sole purpose was for use as slave laborers in the
+          mines for the Nephilim. We were to be destroyed after the gold mining
+          project was completed. Satan, along with many of the Nephilim fathered
+          children with human mothers. These offspring were known as
+          "Demi-Gods."
         </Text>
         <Text style={look.baseText}>
-          Satan este incredibil de puternic; genial și puternic. A refuzat să
-          accepte înfrângerea. Pierduse o luptă, însă nu a pierdut războiul.
-          SATAN/LUCIFER ESTE UN SUSȚINĂTOR AL ELIBERĂRII DE SUB TIRANIE.
+          Satan is incredibly strong, brilliant, and powerful. He refused to
+          admit defeat. He lost a battle, but not the war. SATAN/LUCIFER STANDS
+          FOR FREEDOM FROM TYRANNY!
         </Text>
         <Text
           style={{
@@ -326,71 +304,63 @@ const SatanismulSpiritual = (props) => {
             marginTop: 30,
           }}
         >
-          EXISTĂ SATAN CU ADEVĂRAT?
+          DOES SATAN REALLY EXIST?
         </Text>
         <Text style={look.baseText}>
-          Da. El interacționează cu discipolii și cu adepții săi. Mulți dintre
-          noi l-au văzut, am fost martorii așa zisului supranatural și, de
-          asemenea, am primit abilități cu mult superioare omului obișnuit. Când
-          cerem, primim răspuns. Spre deosebire de alte religii în care adepții
-          trebuie să își caute zeii, însuși Satan/Lucifer vine la noi și ne lasă
-          să îi simțim și să îi cunoaștem prezența.
+          Yes. He interacts with his Disciples and followers. Many of us have
+          seen him, we have witnessed the so-called supernatural, and we have
+          been given abilities way beyond that of the average person. When we
+          ask, we get answers. Unlike other religions, where followers have to
+          go searching for their gods, Satan/Lucifer comes to us. He lets us
+          know of his presence.
         </Text>
         <Text style={look.baseText}>
-          Demonii, în contradicție cu minciunile creștinismului, sunt prieteni
-          ai omenirii. Demonii, care sunt Zeii originali ai omenirii, ne acordă
-          multă atenție și protecție individuală, odată ce o relație de
-          încredere este stabilită. Când îi suntem apropiați și sub protecția
-          lui, Satan ne trimite Demoni care lucrează personal cu noi. Sigiliile
-          lor conțin desene ale unor simboluri importante din alchimie,
-          relaționate cu iluminarea/deschiderea sufletului.
+          Demons, as opposed to all of the Christian lies, are friends of
+          humanity. Demons, who are the Original Gods, give us much individual
+          attention and protection, once a strong and trusted relationship is
+          established. When we are close to, and under the protection of Satan,
+          he gives us good Demons to work with. Their Sigils contain very
+          important designs of alchemical symbols related to the opening of the
+          soul.
         </Text>
         <Text style={look.baseText}>
-          Satan nu este „diabolic” și nici nu este responsabil de multitudinea
-          de boli, afecțiuni sau orice alt lucru de care omenirea este afectată.
-          Aceste necazuri sunt rezultatele distrugerii și înlocuirii
-          cunoștințelor antice cu programele creștinismului.
+          Satan is not "evil," nor is Satan responsible for the multitude of
+          illnesses, diseases, or anything else that afflicts humanity. These
+          afflictions are due to the removal and destruction of ancient
+          knowledge that was replaced with the Christianity programs.
         </Text>
         <Text style={look.baseText}>
-          Satan stă de partea echilibrului dintre spiritualitate și tehnologie.
-          Fără acest echilibru, orice civilizație, în cele din urmă se
-          prăbușește.
+          Satanism stands for the balance of spirituality with technology.
+          Without this balance, civilizations eventually collapse.
         </Text>
         <Text style={look.baseText}>
-          „Iadul” nu este o gheenă arzătoare. Iadul nu este situat în mijlocul
-          pământului, așa cum afirmă unii creștini nătângi, ca să înfricoșeze
-          oamenii. Conceptul creștin cu privire la iad este foarte ridicol de
-          altfel. Unii dintre noi, care îi suntem apropiați lui Satan, au văzut
-          „Iadul.” Din câte se pare, fiecare dintre noi, căruia Iadul i-a fost
-          arătat, am avut parte de aceeași experiență. Unele locuri din Iad sunt
-          natural mai întunecate, ele fiind iluminate de o lumină albastră, pe
-          când alte locuri, beneficiază de lumina zilei, lumină naturală. Una
-          dintre culorile lui Lucifer este albastrul, iar Demonii adesea apar
-          înconjurați de o lumină albastră. Albastrul este o culoare foarte
-          spirituală. Acesta este locul în care Satan îi ține pe ai săi, până
-          când fiecare dintre ei poate fi reîncarnat pentru a evolua și a atinge
-          dumnezeirea. Aceste persoane fiind deja decedate, sunt bineînțeles în
-          spirit. Unii dintre ei vizitează pământul pentru a ajuta alți oameni
-          care se află pe calea mâinii stângi.
+          "Hell" is not a burning lake of fire. Hell is not inside the Earth, as
+          some foolish Christians claim in order to frighten people. The
+          Christian concept of Hell is very ludicrous. Some of us, who are close
+          to Satan, have seen Hell" all seem to have had the same experiences.
+          Some places in Hell are dark and illuminated by a blue light, and in
+          other places, there is daylight. One of Lucifer's colors is blue and
+          Demons often appear with a blue light. Blue is a very spiritual color.
+          I saw people sitting around a table in a bar in Hell, playing cards.
+          The room was smoke filled, these people, already being dead, could
+          smoke to their hearts content. These people were in spirit form. Some
+          visit the earth to help humans who are on the Left Hand Path. This is
+          where Satan keeps his own people until we can reincarnate and evolve
+          into godhead.
         </Text>
         <Text style={look.baseText}>
-          „Iadul” și „pământul” (sau lumea inferioară) sunt de asemenea alegorii
-          pentru cele trei chakre inferioare; „Iadul” reprezentând chakra bazei.
-          Motivul acestei asocieri este șarpele Kundalini înflăcărat care șade
-          încolăcit sub chakra bazei și care poate fi dogoritor de fierbinte
-          atunci când este deșteptat.
+          "Hell" and the "Lower world" are also allegories for the three lower
+          chakras; "Hell" representing the base chakra. The reason for this is
+          the fiery kundalini serpent lies coiled beneath the base chakra and
+          when roused, it can be scorching hot.
         </Text>
         <Text style={look.baseText}>
-          În opoziție cu afirmațiile isterice ale creștinilor, satanismul nu
-          este sub nici o formă o religie care promovează sacrificiile de sânge.
-          Toate felurile de ritualuri și de jertfe de sânge pot fi observate
-          pretutindeni în biblia iudeo-creștina.
-        </Text>
-        <Text style={look.baseText}>
-          Șarpele, care îl simbolizează pe Satan, reprezintă șarpele Kundalini
-          aflat la baza coloanei vertebrale și de asemenea, ADN-ul. Șarpele
-          reprezintă viața. Atunci când această forță este activată, suntem
-          vindecați și iluminați.
+          As opposed to hysterical Christian claims, Satanism is not in any way
+          about blood sacrifice. All kinds of murder and living blood sacrifices
+          can be seen all throughout the Judeo/Christian bible. The
+          serpent/snake, which symbolizes Satan, represents the kundalini at the
+          base of the spine, also the DNA. The serpent represents life. When
+          this force is activated, we are healed and enlightened.
         </Text>
       </View>
       <BLSButton navigate={props} />

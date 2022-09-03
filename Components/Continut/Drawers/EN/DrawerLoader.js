@@ -6,7 +6,6 @@ import Satan from "../../Screens/EN/3-Satan";
 import Demonii from "../../Screens/EN/4-Demonii";
 import SatanismulSpiritual from "../../Screens/EN/5-SatanismulSpiritual";
 import DoctrineleLuiSatan from "../../Screens/EN/6-DoctrineleLuiSatan";
-import Predici from "../../Screens/EN/7-Predici";
 import OriginileSatanismului from "../../Screens/EN/8-OriginileSatanismului";
 import MoarteIadSiViataDeApoi from "../../Screens/EN/9-MoarteIadSiViataDeApoi";
 import RitualulDeInitiere from "../../Screens/EN/10-RitualulDeInitiere";
@@ -40,7 +39,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Bun Venit"
+        name="Welcome"
         component={BunVenit}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -65,7 +64,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Demonii"
+        name="Demons"
         component={Demonii}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -75,7 +74,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Satanismul Spiritual"
+        name="Spiritual Satanism"
         component={SatanismulSpiritual}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -85,7 +84,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Doctrinele lui Satan"
+        name="Sermons of Satan"
         component={DoctrineleLuiSatan}
         options={{
           headerStyle: { backgroundColor: "#3BA1FF" },
@@ -100,17 +99,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Predici"
-        component={Predici}
-        options={{
-          headerStyle: { backgroundColor: "#000A23" },
-          headerTintColor: "#fff",
-          headerTitleAlign: "left",
-          headerTitleStyle: { fontFamily: "serif", letterSpacing: 2 },
-        }}
-      />
-      <Drawer.Screen
-        name="Originile Satanismului"
+        name="The Origins of Satanism"
         component={OriginileSatanismului}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -120,7 +109,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Moarte, Iad și viața de apoi"
+        name="Death, the Afterlife and Hell"
         component={MoarteIadSiViataDeApoi}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -130,17 +119,21 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Ritualul de inițiere"
+        name="How to Dedicate Your Soul to Satan"
         component={RitualulDeInitiere}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
           headerTintColor: "#fff",
           headerTitleAlign: "left",
-          headerTitleStyle: { fontFamily: "serif", letterSpacing: 2 },
+          headerTitleStyle: {
+            fontFamily: "serif",
+            letterSpacing: 1,
+            fontSize: 14,
+          },
         }}
       />
       <Drawer.Screen
-        name="Simboluri Satanice"
+        name="Satanic Symbols"
         component={SimboluriSatanice}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -150,7 +143,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Începătorii"
+        name="Newbies"
         component={Incepatorii}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -160,7 +153,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Copiii și adolescenții"
+        name="Kids and Teens"
         component={CopiiiSiAdolescentii}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -170,7 +163,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Armata Iadului"
+        name="Hell's Army 666"
         component={ArmataIadului}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -180,12 +173,11 @@ export default function DrawerLoader() {
             fontFamily: "serif",
             letterSpacing: 2,
             fontSize: 16,
-          },
-          title: "Alătură-te Armatei Iadului 666",
+          }
         }}
       />
       <Drawer.Screen
-        name="Ritualuri și ceremonii"
+        name="SATANIC RITES AND CELEBRATIONS"
         component={Ritualuri}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -193,13 +185,13 @@ export default function DrawerLoader() {
           headerTitleAlign: "left",
           headerTitleStyle: {
             fontFamily: "serif",
-            letterSpacing: 2,
-            fontSize: 20,
+            letterSpacing: 1,
+            fontSize: 14,
           },
         }}
       />
       <Drawer.Screen
-        name="Meditații"
+        name="Satanic Meditation"
         component={Meditatii}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -213,7 +205,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Vrăjitorie"
+        name="Satanic Witchcraft"
         component={Vrajitorie}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -227,7 +219,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Satanism Avansat"
+        name="Advanced Satanism"
         component={SatanismAvansat}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -238,11 +230,11 @@ export default function DrawerLoader() {
             fontSize: 15,
           },
           title:
-            "Satanism avansat. Originile satanismului în Orientul Îndepărtat",
+            "Satanism's Origins in the Far East",
         }}
       />
       <Drawer.Screen
-        name="Ministerul"
+        name="Ministry"
         component={Ministerul}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -256,7 +248,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Covanurile Satanice"
+        name="Satanic Covens"
         component={CovanurileSatanice}
         options={{
           headerStyle: { backgroundColor: "#000A23" },
@@ -270,7 +262,7 @@ export default function DrawerLoader() {
         }}
       />
       <Drawer.Screen
-        name="Link-uri"
+        name="Links"
         component={Links}
         options={{
           headerStyle: { backgroundColor: "#000A23" },

@@ -1,6 +1,6 @@
 import { ScrollView, Text, Linking } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const CovanurileSatanice = (props) => {
   console.log("6_nav_loaded");
@@ -21,11 +21,11 @@ const CovanurileSatanice = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/ghid-bazic-pentru-covanurile-satanice/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Covens666.html"
           );
         }}
       >
-        Ghid bazic pentru covanurile satanice
+        Basic Guidelines for Satanic Covens
       </Text>
       <Text
         style={{
@@ -42,11 +42,11 @@ const CovanurileSatanice = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/ceremonia-de-initiere-intr-un-covan/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Initiation.html"
           );
         }}
       >
-        Ceremonia de inițiere într-un covan
+        Initiation Ceremony for Satanic Covens
       </Text>
       <Text
         style={{
@@ -63,11 +63,11 @@ const CovanurileSatanice = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/sabaturile-si-esbaturile/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Sabbats.html"
           );
         }}
       >
-        Sabaturile și Esbaturile
+        Satanic Sabbats and Esbats
       </Text>
       <Text
         style={{
@@ -84,11 +84,11 @@ const CovanurileSatanice = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/meditatii-in-grup-pentru-covan/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Meditations4Covens.html"
           );
         }}
       >
-        Meditații în grup pentru covan
+        Coven Group Meditation
       </Text>
       <Text
         style={{
@@ -105,11 +105,11 @@ const CovanurileSatanice = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/mai-multe-sfaturi-pentru-conducerea-unui-covan-satanic/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Satanic_Coven.html"
           );
         }}
       >
-        Mai multe sfaturi pentru conducerea unui covan satanic
+        More Tips for Operating a Satanic Coven
       </Text>
       <Text
         style={{
@@ -126,11 +126,32 @@ const CovanurileSatanice = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/conul-satanic-de-putere/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Cone.html"
           );
         }}
       >
-        Conul satanic de putere
+        The Satanic Cone of Power
+      </Text>
+      <Text
+        style={{
+          textAlign: "left",
+          color: "#4BB4FF",
+          textDecorationLine: "underline",
+          paddingTop: 10,
+          letterSpacing: 1,
+          marginLeft: 20,
+          marginTop: 15,
+          marginRight: 10,
+          fontSize: 24,
+          fontStyle: "italic",
+        }}
+        onPress={() => {
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Satanic_Covens.pdf"
+          );
+        }}
+      >
+        Handbook for Satanic Covens.pdf
       </Text>
       <BLSButton navigate={props} />
     </ScrollView>

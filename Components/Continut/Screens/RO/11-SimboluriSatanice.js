@@ -202,7 +202,7 @@ const SimboluriSatanice = (props) => {
       {/* image */}
       <Text style={look.baseText}>
         Imaginea Baphometului din ocultismul occidental a fost preluată din
-        imaginea lui 00Baphomet_ImageShiva (vezi poza cu albastru de mai sus).
+        imaginea lui (vezi poza cu albastru de mai sus).
         Fii atent la postură, în special la postura mâinilor: una ațintită în
         sus și alta în jos. Și aici, Baphometul simbolizează atât aspectul
         masculin cât și cel feminin al sufletului (acest lucru apare și în

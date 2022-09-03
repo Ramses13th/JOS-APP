@@ -1,23 +1,21 @@
 import { ScrollView, Text, Linking } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const Meditatii = (props) => {
   console.log("16_nav_loaded");
   return (
     <ScrollView style={look.background}>
       <Text style={look.baseText}>
-        „Nebunii nu știu ceea ce fac. Energia este trimisă în sus. Aceasta ar
-        trebui să meargă înapoi în Pământ, pentru a-l reface. Folosirea excesivă
-        a pentagramei cu vârful în sus, înseamnă aruncarea energiilor în aer,
-        pricinuind o sumedenie de probleme și secătuind Pământul de abilitatea
-        acestuia de a se apăra pe el însuși împotriva acestor necazuri.” –
-        Satan/Lucifer {"\n\n"}Asta are de-a face cu sufletul și cu felul în care
-        mișcarea new age continuă să-i îndemne pe adepți să se concentreze
-        exclusiv pe chakrele lor superioare. Fiecare chakră formează o pereche
-        cu o altă chakră, întotdeauna una masculină + una feminină, și amândouă
-        acestea lucrează împreună. Atât chakrele superioare cât și cele
-        inferioare trebuie să fie echilibrate între ele.
+        "Fools do not know what they are doing. Energy is being sent up. It
+        should go into the earth to replenish her. The overuse of the point-up
+        pentagram is throwing the energies into space,causing a number of
+        problems, and draining the earth of her ability to defend herself
+        against these problems." -Satan/Lucifer {"\n\n"}This has to do with the
+        soul and how the New Age movement keeps urging followers to focus solely
+        on the higher chakras. Each chakra has a male and female pair and both
+        work together. There must be balance in both the higher and lower
+        chakras.
       </Text>
 
       <Text
@@ -35,12 +33,11 @@ const Meditatii = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/ceea-ce-ar-trebui-sa-stii-despre-meditatia-de-imputernicire/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Expect.html"
           );
         }}
       >
-        Ceea ce ar trebui să știi – lucruri importante despre meditația de
-        împuternicire
+        IMPORTANT INFORMATION ON POWER MEDITATION
       </Text>
       <Text
         style={{
@@ -57,11 +54,11 @@ const Meditatii = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/ceea-ce-ar-trebui-sa-stii-despre-minte/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/TheMind.html"
           );
         }}
       >
-        Despre minte
+        ABOUT THE MIND
       </Text>
       <Text
         style={{
@@ -77,10 +74,10 @@ const Meditatii = (props) => {
           fontStyle: "italic",
         }}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/meditatii-satanice/");
+          Linking.openURL("https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Satanic_Meditation.html");
         }}
       >
-        MEDITAȚIA DE ÎMPUTERNICIRE
+        POWER MEDITATIONS
       </Text>
       <BLSButton navigate={props} />
     </ScrollView>

@@ -1,6 +1,6 @@
 import { ScrollView, Text, Linking, View } from "react-native";
 import look from "../../../BaseStyle/Style";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 
 const SatanismAvansat = (props) => {
   console.log("18_nav_loaded");
@@ -9,55 +9,55 @@ const SatanismAvansat = (props) => {
       {/* nested link in text */}
       <Text style={look.baseText}>
         <Text style={look.baseText}>
-          În urma anilor de cercetări în care am fost ghidați de iubitul nostru
-          Tată Satan, am descoperit adevăratele origini ale satanismului.
+          From years of research, and guidance from our Beloved Father Satan, we
+          have discovered the true origins of Satanism. We have come to the
+          conclusion,
         </Text>
 
         <Text
           style={look.linkTextLightBlue}
           onPress={() => {
-            Linking.openURL("https://crestinismulexpus.blogspot.ro/");
+            Linking.openURL(
+              "https://satanslibrary.org/ExposingChristianity/EXPOSING_CHRISTIANITY_MAIN.html"
+            );
           }}
         >
           {" "}
-          Iudaismul și creștinismul sunt niște înșelăciuni de neegalat la adresa
-          omenirii.
+          knowing Judaism, Christianity and Islam to be unparalleled and
+          viscious hoaxes upon humanity,
         </Text>
         <Text style={look.baseText}>
           {" "}
-          Am ajuns la concluzia că afirmațiile conform cărora originile omenirii
-          ar fi în Orientul Mijlociu, sunt doar niște minciuni menite să inducă
-          oamenii în eroare și să creeze confuzie cu privire la adevăr.
-          Cunoștința și învățăturile spirituale au ajuns în Egipt și Mesopotamia
-          din Orientul Îndepărtat.{" "}
+          that the claims these programs make in regards to the origins of
+          humanity being in the Middle East are lies and cover-ups to further
+          delude and confuse people as to the truth. Spiritual knowledge and
+          teachings came to Egypt and Mesopotamia from the Far East.{" "}
         </Text>
       </Text>
 
       <Text style={look.baseText}>
-        De asemenea, dogmele iudaismului și creștinismului au fost furate din
-        religiile din Orientul Îndepărtat, după care acestea au fost corupte și
-        înlocuite cu mizeria jidanilor, cu scopul de a elimina toate
-        cunoștințele spirituale din rândul populației. Calea lor e trasată prin
-        minciuni și este marcată de omucideri, torturi și osândiri, împreună cu
-        o degenerare spirituală severă a omenirii. Pentru ca aceste programe să
-        își acopere temelia împuțită zidită pe cadavre și pentru a continua să
-        existe, sunt necesare din ce în ce mai multe minciuni, corupție și o
-        distrugere sistematică a artefactelor istorice.
+        The Far East is also where Judaism and Christianity STOLE their
+        doctrines from, after corrupting them and replacing them with imposter
+        filth, with the goal to remove all spiritual knowledge from the
+        populace, their trail of lies is replete with the murdered, the
+        tortured, the damned and the spiritual degeneracy of humanity. More and
+        more lies are necessary for these programs to cover up their stinking
+        foundation of corpses, destruction of historical artifacts, and
+        horrendous corruption.
       </Text>
 
       <Text style={look.baseText}>
-        Atunci când te apuci să studiezi în mod detaliat disciplinele din
-        Orientul Îndepărtat, este foarte important să păstrezi mereu în minte
-        faptul că, din nefericire, acestea au fost intens poluate cu jegul și
-        minciunile creștine, la fel ca aproape toate celelalte lucruri.
-        ADEVĂRATUL scop al satanismului (în sanscrită– care e una dintre cele
-        mai vechi limbi din lume – rădăcina „SAT” din toate cuvintele și
-        variațiile numelui „Satan,” înseamnă „ADEVĂR”), este de a ne avansa
-        sufletele și de a ne auto-împuternici spiritual. Gunoiul fără sens, cum
-        e cazul „moralității” sau a „conduitei personale” ar trebui curățate la
-        fel cum cureți mizeria de sub pat. Pentru că în adevăr, acestea nu au
-        nimic de-a face cu dobândirea puterilor minții și ale sufletului.
-        Cunoștința împreună cu o corectă aplicare a acesteia este singura cheie.
+        When doing any personal research/study on your own regarding the Far
+        East disciplines, it is very important to remember that unfortunately,
+        these have been heavily polluted with Christian filth and lies like just
+        about everything else. The TRUE goal of Satanism [the root word/name
+        "SAT" of 'all names and variations of Satan' means "TRUTH" in Sanskrit,
+        which is one of the worlds oldest languages], is to advance our souls
+        and to empower ourselves. Meaningless crap such as references to certain
+        'morality' and 'personal conduct' should be weeded out as dross. These
+        in truth have nothing whatsoever to do with obtaining the powers of the
+        mind and soul. Knowledge and application of that knowledge is the only
+        key.
       </Text>
 
       <View
@@ -83,73 +83,37 @@ const SatanismAvansat = (props) => {
           }}
         >
           <Text style={{ fontStyle: "italic", color: "grey" }}>
-            „Chiar la începutul secolului al XIII-lea, practicile Yantra-Tantra
-            erau răspândite în întreaga Indie de Est. În același secol,
-            invadatorii musulmani au distrus universitățile faimoase și centrele
-            de predare Yantra-Tantra și au năruit mii de volume de literatură,
-            manuscrise și pictograme. Oamenii care practicau arta Yantra-Tantra
-            au fost masacrați și cei care au reușit să își salveze viața au
-            fugit în India de Sud, Assam și țări ca Nepal, Tibet, Burma, Ceylon
-            și Java. În timpuri mai recente, invadatorii chinezi care au jefuit
-            Tibetul, au continuat distrugerea mânăstirilor și literaturii
-            Yantra-Tantra.” {"\n\n"}– Preluat din: Power of Mantra and Yantra de
-            P.Khurrana
+            "Right up to the thirteenth century, Yantra-Tantra practises thrived
+            on a widespread basis in the whole of Eastern India. In the
+            Thirteenth century, muslim invaders destroyed the famed universities
+            and centres of learning of Yantra-Tantra and ruined thousands of
+            volumes of literature in the form of books, manuscripts and icons.
+            People practising the art of Yantra-Tantra were massacred and those
+            who were able to save their lives escaped to South India, Assam and
+            countries like Nepal, Tibet, Burma, Ceylon and Java. In more recent
+            times, the Chinese invaders who plundered Tibet further destroyed
+            the monasteries and literature of Yantra-Tantra." Reference: Power
+            of Mantra and Yantra by P. Khurrana
           </Text>
         </Text>
       </View>
 
       <Text style={look.baseText}>
-        Așa cum putem vedea cu ușurință din extrasul de mai sus, creștinismul și
-        islamismul nu sunt nimic altceva decât unelte formidabile de distrugere
-        a întregii spiritualități adevărate și înlocuirea acesteia cu minciuni
-        și corupție. Multe lucruri au fost distruse. Satan ne îndrumă spre
-        adevăr prin intermediul studiului personal și prin deschiderea minților
-        și sufletelor noastre.
+        As we can easily see from the above excerpt, Christianity and Islam are
+        nothing more than formidable tools to destroy all true spirituality and
+        replace it with false imposter lies and corruptions. Much has been
+        destroyed. Satan leads us to the truth through our own study and through
+        opening our souls and minds.
       </Text>
-
       <Text style={look.baseText}>
         <Text style={{ color: "indigo" }}>IMPORTANT!</Text>
         <Text>
           {" "}
-          CEA MAI MARE PARTE DIN ÎNVĂȚĂTURILE ȘI DOCTRINELE RELIGIILOR ANTICE AU
-          FOST CORUPTE. IGNORĂ-LE! UNELE EXERCIȚII, CUM SUNT CELE DIN{" "}
-        </Text>
-        <Text
-          style={look.linkTextLightBlue}
-          onPress={() => {
-            Linking.openURL(
-              "https://bucurialuisatan.com/wp-content/uploads/2015/05/Hatha-Yoga.pdf"
-            );
-          }}
-        >
-          YOGA FIZICĂ
-        </Text>
-        <Text> ȘI </Text>
-        <Text
-          style={look.linkTextLightBlue}
-          onPress={() => {
-            Linking.openURL(
-              "https://bucurialuisatan.com/forum/doc/2/1490907001_yoga_kundalinic.pdf"
-            );
-          }}
-        >
-          YOGA KUNDALINICĂ
-        </Text>
-        <Text>, </Text>
-        <Text
-          style={look.linkTextLightBlue}
-          onPress={() => {
-            Linking.openURL(
-              "https://bucurialuisatan.com/respiratii-yogice-bazice/"
-            );
-          }}
-        >
-          EXERCIȚIILE DE RESPIRAȚIE
-        </Text>
-        <Text>
-          , ARTELE MARȚIALE, ETC., – SUNT O CU TOTUL ALTĂ POVESTE ȘI SUNT FOARTE
-          EFECTIVE ÎN RIDICAREA AȘANUMITEI „PUTERI VRĂJITOREȘTI,” „VRIL,” „CHI,”
-          „FORȚE VITALE.” ACEASTA ESTE ESENȚA SATANISMULUI.{" "}
+          MOST OF THE TEACHINGS AND DOCTRINES OF THE ANCIENT RELIGIONS HAVE BEEN
+          CORRUPTED. IGNORE THEM. THE EXERCISES, SUCH AS THOSE IN HATHA AND
+          KUNDALINI YOGA, BREATHING EXERCISES, MARTIAL ARTS EXERCISES, ETC.,
+          THESE ARE ANOTHER MATTER AND THEY ARE VERY POWERFUL IN RAISING THE
+          SO-CALLED WITCHPOWER, VRIL, CHI. THIS IS THE ESSENCE OF SATANISM.{" "}
         </Text>
       </Text>
 
@@ -170,11 +134,11 @@ const SatanismAvansat = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/radacinile-si-originile-satanismului-adevarat/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Origins_of_Satanism.html"
           );
         }}
       >
-        Rădăcinile și originile satanismului adevărat
+        The Far Eastern Origins of Satanism
       </Text>
       <Text
         style={{
@@ -191,11 +155,11 @@ const SatanismAvansat = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/mesaj-de-la-satan-cu-privire-la-yoga/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Yoga.html"
           );
         }}
       >
-        MESAJ DE LA SATAN CU PRIVIRE LA YOGA
+        MESSAGE FROM SATAN: IMPORTANT INFORMATION CONCERNING YOGA
       </Text>
       <Text
         style={{
@@ -212,11 +176,11 @@ const SatanismAvansat = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/calea-lui-astaroth-din-8-pasi-pentru-avansarea-spirituala/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/ASHTAR.html"
           );
         }}
       >
-        Calea lui Astarte din 8 pași, pentru avansarea spirituală
+        Astaroth's Eight-Fold Path of Advanced Empowerment - Updated 10/15/09
       </Text>
       <Text
         style={{
@@ -233,11 +197,11 @@ const SatanismAvansat = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/cuvinte-spirituale-de-cod/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Spiritual_Code_Words.html"
           );
         }}
       >
-        Cuvinte spirituale de cod
+        Spiritual Code-Words
       </Text>
       <Text
         style={{
@@ -254,14 +218,34 @@ const SatanismAvansat = (props) => {
         }}
         onPress={() => {
           Linking.openURL(
-            "https://bucurialuisatan.com/expunerea-minciunilor-despre-yoga/"
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/S_Resources.html"
           );
         }}
       >
-        21. 11. 2010 – INFORMAȚII IMPORTANTE DESPRE YOGA KUNDALINICĂ și
-        expunerea minciunilor din doctrinele populare cu Yoga
+        Resources [Books, DVD's, References]-Updated 10/15/09
       </Text>
-
+      <Text
+        style={{
+          textAlign: "left",
+          color: "#4BB4FF",
+          textDecorationLine: "underline",
+          paddingTop: 10,
+          letterSpacing: 1,
+          marginLeft: 20,
+          marginTop: 15,
+          marginRight: 10,
+          fontSize: 20,
+          fontStyle: "italic",
+        }}
+        onPress={() => {
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Serpent_Yoga_Info.html"
+          );
+        }}
+      >
+        11/21/10: IMPORTANT INFORMATION ON SERPENT YOGA AND EXPOSING THE LIES IN
+        THE MAINSTREAM YOGA DOCTRINES
+      </Text>
       <BLSButton navigate={props} />
     </ScrollView>
   );

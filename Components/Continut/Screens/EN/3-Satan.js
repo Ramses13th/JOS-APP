@@ -1,7 +1,7 @@
 import { ScrollView, Text, View, Image, Linking } from "react-native";
 import look from "../../../BaseStyle/Style";
 import { Continut } from "../../../Continut/ContinutEn.json";
-import BLSButton from "../../../Componente/blsButton";
+import BLSButton from "../../../Componente/blsButtonEn";
 const data = JSON.parse(JSON.stringify(Continut));
 
 const Satan = (props) => {
@@ -12,31 +12,31 @@ const Satan = (props) => {
         {data.Satan.map((obj, index) => {
           if (
             obj ==
-            "Pentru prea multă vreme, prea multe informații neadevărate au fost răspândite despre Satan. Mulți dintre noi l-au văzut, au stat de vorbă cu el și au fost atinși de acesta în astral. Fiecare dintre noi care îl cunosc, cad de acord în ceea ce privește înfățișarea lui. Religiile de dreapta, pentru prea mult timp, au scris cărți despre felul în care ei cred că el se înfățișează, despre felul în care ei cred că Demonii arată; acestea nu sunt decât minciuni blasfematoare. El nu este roșu, cu coarne și coada și nici nu arată precum monștrii de Halloween. Satan nu are ochii roșii învăpăiați și nici aripi cauciucate. Aceste descrieri sunt menite să-l insulte, denigreze și să îl hulească. În continuare sunt prezentate câteva imagini despre cum s-a înfățișat Satan celor care l-au văzut. În mod contrar afirmațiilor conform cărora satanismul ar fi „întunecat,” Satan apare îmbrăcat într-o robă albă și strălucitoare, identică cu cea purtată de el în imaginea de mai jos. Mulți dintre noi îl văd adesea și au, de asemenea, o relație foarte apropiată cu el. Este frumos. Înfățișarea lui este aproape identica cu cea din imagine. Sigura diferență este aceea că arareori apare cu aripi."
+            'For too long, so many lies and so much misinformation have been spread about Satan. Many of us have seen him, have conversed with him, and have even been astrally touched by him. Nearly all of us who know him agree concerning his appearance. Enemy so-called "religions" have for far too long, written the book on how they believe him to appear, how they believe Demons to look and these are nothing but blasphemous lies. He is not red with horns and a tail, nor does he look like a Halloween monster. He does not have flaming red eyes or rubbery wings. These depictions are intended to insult, denigrate, and blaspheme him. [There are some lower orders of Demons. They are protectors and messengers who serve the higher-ranking Demons]. Here are images of how Satan appears to those of us who have seen him. Contrary to Satanism being labeled as "darkness," Satan appears wearing a long white robe identical to what he is shown wearing in the images below. He is the Top Leader of the Nordic Gods of the Empire of Orion. Many of us see him often and have a very close relationship with him. He is beautiful. His appearance is almost exactly as in the pictures, other than he rarely appears with wings.'
           ) {
             return (
               <View style={look.baseContainer} key={obj + Math.random()}>
                 <Text style={look.baseText} key={obj + Math.random()}>
-                  Pentru prea multă vreme, prea multe informații neadevărate au
-                  fost răspândite despre Satan. Mulți dintre noi l-au văzut, au
-                  stat de vorbă cu el și au fost atinși de acesta în astral.
-                  Fiecare dintre noi care îl cunosc, cad de acord în ceea ce
-                  privește înfățișarea lui. Religiile de dreapta, pentru prea
-                  mult timp, au scris cărți despre felul în care ei cred că el
-                  se înfățișează, despre felul în care ei cred că Demonii arată;
-                  acestea nu sunt decât minciuni blasfematoare. El nu este roșu,
-                  cu coarne și coada și nici nu arată precum monștrii de
-                  Halloween. Satan nu are ochii roșii învăpăiați și nici aripi
-                  cauciucate. Aceste descrieri sunt menite să-l insulte,
-                  denigreze și să îl hulească. În continuare sunt prezentate
-                  câteva imagini despre cum s-a înfățișat Satan celor care l-au
-                  văzut. În mod contrar afirmațiilor conform cărora satanismul
-                  ar fi „întunecat,” Satan apare îmbrăcat într-o robă albă și
-                  strălucitoare, identică cu cea purtată de el în imaginea de
-                  mai jos. Mulți dintre noi îl văd adesea și au, de asemenea, o
-                  relație foarte apropiată cu el. Este frumos. Înfățișarea lui
-                  este aproape identica cu cea din imagine. Sigura diferență
-                  este aceea că arareori apare cu aripi.
+                  For too long, so many lies and so much misinformation have
+                  been spread about Satan. Many of us have seen him, have
+                  conversed with him, and have even been astrally touched by
+                  him. Nearly all of us who know him agree concerning his
+                  appearance. Enemy so-called "religions" have for far too long,
+                  written the book on how they believe him to appear, how they
+                  believe Demons to look and these are nothing but blasphemous
+                  lies. He is not red with horns and a tail, nor does he look
+                  like a Halloween monster. He does not have flaming red eyes or
+                  rubbery wings. These depictions are intended to insult,
+                  denigrate, and blaspheme him. [There are some lower orders of
+                  Demons. They are protectors and messengers who serve the
+                  higher-ranking Demons]. Here are images of how Satan appears
+                  to those of us who have seen him. Contrary to Satanism being
+                  labeled as "darkness," Satan appears wearing a long white robe
+                  identical to what he is shown wearing in the images below. He
+                  is the Top Leader of the Nordic Gods of the Empire of Orion.
+                  Many of us see him often and have a very close relationship
+                  with him. He is beautiful. His appearance is almost exactly as
+                  in the pictures, other than he rarely appears with wings.
                 </Text>
                 <Image
                   source={require("../../../../assets/images/3-Satan/satan.png")}
@@ -61,13 +61,13 @@ const Satan = (props) => {
             );
           } else if (
             obj ==
-            "Mai jos este o pictură veche a lui Edward Burney, din Epica „Paradisul pierdut.”"
+            'Here is an old painting by Edward Burney from the epic of "Paradise Lost."'
           ) {
             return (
               <View style={look.baseContainer} key={obj + Math.random()}>
                 <Text style={look.baseText} key={obj + Math.random()}>
-                  Mai jos este o pictură veche a lui Edward Burney, din Epica
-                  „Paradisul pierdut.”
+                  Here is an old painting by Edward Burney from the epic of
+                  "Paradise Lost."
                 </Text>
                 <Image
                   source={require("../../../../assets/images/3-Satan/paradisul_pierdut.png")}
@@ -82,15 +82,15 @@ const Satan = (props) => {
             );
           } else if (
             obj ==
-            "Mai jos sunt sigiliile Tatălui Satan. Sigiliul cu paharul cu ankh-ul înăuntru, simbolizează pocalul cu elixirul vieții. Acesta este „Graalul sacru” al imortalității. Chakra solară 666 e Graalul sacru."
+            'Father Satan\'s Sigils. The Sigil with the ankh inside of the cup, symbolizes the cup with the elixir of life. This is the "Holy Grail" of immortality. The Holy Grail is the 666 Solar Chakra.'
           ) {
             return (
               <View style={look.baseContainer} key={obj + Math.random()}>
                 <Text style={look.baseText} key={obj + Math.random()}>
-                  Mai jos sunt sigiliile Tatălui Satan. Sigiliul cu paharul cu
-                  ankh-ul înăuntru, simbolizează pocalul cu elixirul vieții.
-                  Acesta este „Graalul sacru” al imortalității. Chakra solară
-                  666 e Graalul sacru.
+                  Father Satan's Sigils. The Sigil with the ankh inside of the
+                  cup, symbolizes the cup with the elixir of life. This is the
+                  "Holy Grail" of immortality. The Holy Grail is the 666 Solar
+                  Chakra.
                 </Text>
                 <View style={{ flexDirection: "row", marginHorizontal: 20 }}>
                   <Image
@@ -116,46 +116,45 @@ const Satan = (props) => {
             );
           } else if (
             obj ==
-            "Mai jos este o pictură cu Palatului lui Satan din „Paradisul pierdut” de John Martin."
+            "Here is a painting from \"Paradise Lost\" of Satan's Palace by John Martin."
           ) {
             return (
               <View style={look.baseContainer} key={obj + Math.random()}>
                 <Text style={look.baseText}>
-                  {"\u25CF" + " Ziua lui este Luni"}
+                  {"\u25CF" + " His Day is Monday."}
                 </Text>
                 <Text style={look.baseText}>
-                  {"\u25CF" + " Culorile lui sunt albastru, roșu și negru."}
-                </Text>
-                <Text style={look.baseText}>
-                  {"\u25CF" +
-                    " El este Zeul Sumerian EA, de asemenea cunoscut sub numele de ENKI, care înseamnă „Domn al Pământului.” El mai este cunoscut și ca Malek Ta’us."}
+                  {"\u25CF" + " His Colors are Blue, Red, and Black"}
                 </Text>
                 <Text style={look.baseText}>
                   {"\u25CF" +
-                    " Animalele care îi sunt sacre: păunul, șarpele, capra, dragonul și corbul."}
+                    " He is the Sumerian God EA, also known as ENKI which means \"Lord of the Earth.\" He is also known as Melek Ta'us."}
                 </Text>
                 <Text style={look.baseText}>
                   {"\u25CF" +
-                    " Numerele lui sunt 13, 666 și 4 (666 reprezintă perfecțiunea și viața eternă)."}
+                    " Animals that are sacred to him are the Peacock, the Serpent, the Goat, the Dragon and the Raven."}
                 </Text>
                 <Text style={look.baseText}>
                   {"\u25CF" +
-                    " Semnele sale zodiacale sunt Vărsător — purtătorul apei; și Capricorn — țapul (Era Vărsătorului e era ascensiunii omenirii)."}
+                    " His numbers are 13, 666 and 4. [666 is perfection and everlasting life]"}
                 </Text>
                 <Text style={look.baseText}>
                   {"\u25CF" +
-                    " Planetele sale sunt Uranus și Venus (Luceafărul de dimineață)."}
-                </Text>
-                <Text style={look.baseText}>
-                  {"\u25CF" + " Direcțiile sale sunt atât sud cât și est."}
+                    " His Zodiac Signs are Aquarius, the Water Bearer and Capricorn, the Goat. [The Age of Aquarius is the Age for the advancement of humanity]."}
                 </Text>
                 <Text style={look.baseText}>
                   {"\u25CF" +
-                    " Ziua anului care este cea mai importantă pentru el, este 23 decembrie, momentul în care Soarele atinge un grad în Capricorn. Prima zi după Solstițiul de Iarna este ziua lui personală, și ar trebui respectată de fiecare satanist dedicat (aceasta mi-a fost dictata în mod personal, de către însuși Satan)."}
+                    " His Planets are Uranus and Venus [the Morning Star]."}
+                </Text>
+                <Text style={look.baseText}>
+                  {"\u25CF" + " His Directions are both South and East."}
+                </Text>
+                <Text style={look.baseText}>
+                  {"\u25CF" +
+                    " His most Important Day of the year is December 23, when the Sun is one degree into Capricorn. The day following the beginning of the Winter Solstice is his Personal Day, which should be observed by every dedicated Satanist. [This was dictated directly from him, personally]."}
                 </Text>
                 <Text style={look.baseText} key={obj + Math.random()}>
-                  Mai jos este o pictură cu Palatului lui Satan din „Paradisul
-                  pierdut” de John Martin.
+                Here is a painting from "Paradise Lost" of Satan's Palace by John Martin.
                 </Text>
                 <Image
                   source={require("../../../../assets/images/3-Satan/palace.png")}
@@ -180,26 +179,30 @@ const Satan = (props) => {
       <Text
         style={look.linkTextLightBlue}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/creatia-lui-satan-omenirea/");
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Tree.html"
+          );
         }}
       >
-        Creația lui Satan: omenirea
+        Satan Created Humanity
       </Text>
       <Text
         style={look.linkTextLightBlue}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/conversatia-mea-cu-satan/");
+          Linking.openURL(
+            "https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Conversation.html"
+          );
         }}
       >
-        Conversația mea cu Satan
+        My Conversations with Satan
       </Text>
       <Text
         style={look.linkTextLightBlue}
         onPress={() => {
-          Linking.openURL("https://bucurialuisatan.com/numele-lui-satan/");
+          Linking.openURL("https://www.joyofsatan.org/www.angelfire.com/empire/serpentis666/Name_of_Satan.html");
         }}
       >
-        Originile numelui lui Satan
+        Origins of the Name of Satan
       </Text>
       <BLSButton navigate={props} />
     </ScrollView>
